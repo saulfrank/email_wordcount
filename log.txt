@@ -1,0 +1,839 @@
+2016-10-08T20:50:06.334707: Look for zipped emails in "/mnt/email/edrm-enron-v2"
+2016-10-08T20:50:06.335309: App got 151 files
+2016-10-08T20:50:06.335471: Going to unzip 151 files
+2016-10-08T20:50:06.335559: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_ruscitti-k_xml.zip to ./zeal_unzip/edrm-enron-v2_ruscitti-k_xml
+2016-10-08T20:50:10.970302: Read ./zeal_unzip/edrm-enron-v2_ruscitti-k_xml/zl_ruscitti-k_841_H4BI_000.xml
+2016-10-08T20:50:22.073414: Dump to ./state.json
+2016-10-08T20:50:22.081263: FILES: (1/151) Elapsed time 15s. Estimated finish time 2250s
+2016-10-08T20:50:22.304847: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_stepenovitch-j_xml.zip to ./zeal_unzip/edrm-enron-v2_stepenovitch-j_xml
+2016-10-08T20:50:24.209707: Read ./zeal_unzip/edrm-enron-v2_stepenovitch-j_xml/zl_stepenovitch-j_646_MCKR_000.xml
+2016-10-08T20:50:28.849458: Dump to ./state.json
+2016-10-08T20:50:28.862482: FILES: (2/151) Elapsed time 22s. Estimated finish time 1639s
+2016-10-08T20:50:29.043822: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_ermis-f_xml.zip to ./zeal_unzip/edrm-enron-v2_ermis-f_xml
+2016-10-08T20:50:31.630359: Read ./zeal_unzip/edrm-enron-v2_ermis-f_xml/zl_ermis-f_814_EQCZ_000.xml
+2016-10-08T20:50:36.896455: Dump to ./state.json
+2016-10-08T20:50:36.915815: FILES: (3/151) Elapsed time 30s. Estimated finish time 1480s
+2016-10-08T20:50:37.074169: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_guzman-m_xml.zip to ./zeal_unzip/edrm-enron-v2_guzman-m_xml
+2016-10-08T20:50:43.367400: Read ./zeal_unzip/edrm-enron-v2_guzman-m_xml/zl_guzman-m_804_BNQD_000.xml
+2016-10-08T20:50:58.661415: Dump to ./state.json
+2016-10-08T20:50:58.684722: FILES: (4/151) Elapsed time 52s. Estimated finish time 1911s
+2016-10-08T20:50:59.159635: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_perlingiere-d_xml.zip to ./zeal_unzip/edrm-enron-v2_perlingiere-d_xml
+2016-10-08T20:51:10.763082: Read ./zeal_unzip/edrm-enron-v2_perlingiere-d_xml/zl_perlingiere-d_867_LNB2_000.xml
+2016-10-08T20:51:32.693423: Read ./zeal_unzip/edrm-enron-v2_perlingiere-d_xml/native_000/3.825306.IXITUUJUZDLLKBNSJMDW3LE1PY0DHT3VB.2.xml
+2016-10-08T20:51:32.695447: Read ./zeal_unzip/edrm-enron-v2_perlingiere-d_xml/native_000/3.825306.IXITUUJUZDLLKBNSJMDW3LE1PY0DHT3VB.4.xml
+2016-10-08T20:51:32.717590: Dump to ./state.json
+2016-10-08T20:51:32.752836: FILES: (5/151) Elapsed time 86s. Estimated finish time 2511s
+2016-10-08T20:51:33.483073: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_gilbertsmith-d_xml.zip to ./zeal_unzip/edrm-enron-v2_gilbertsmith-d_xml
+2016-10-08T20:51:35.071676: Read ./zeal_unzip/edrm-enron-v2_gilbertsmith-d_xml/zl_gilbertsmith-d_741_FIAV_000.xml
+2016-10-08T20:51:38.293821: Dump to ./state.json
+2016-10-08T20:51:38.332942: FILES: (6/151) Elapsed time 91s. Estimated finish time 2199s
+2016-10-08T20:51:38.427828: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_griffith-j_xml.zip to ./zeal_unzip/edrm-enron-v2_griffith-j_xml
+2016-10-08T20:51:50.907801: Read ./zeal_unzip/edrm-enron-v2_griffith-j_xml/zl_griffith-j_667_AZJ5_000.xml
+2016-10-08T20:52:12.481766: Dump to ./state.json
+2016-10-08T20:52:12.529301: FILES: (7/151) Elapsed time 126s. Estimated finish time 2592s
+2016-10-08T20:52:12.965724: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_rapp-b_xml.zip to ./zeal_unzip/edrm-enron-v2_rapp-b_xml
+2016-10-08T20:52:13.289111: Read ./zeal_unzip/edrm-enron-v2_rapp-b_xml/zl_rapp-b_887_ETG1_000.xml
+2016-10-08T20:52:14.000472: Dump to ./state.json
+2016-10-08T20:52:14.049491: FILES: (8/151) Elapsed time 127s. Estimated finish time 2270s
+2016-10-08T20:52:14.080639: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_love-p_xml.zip to ./zeal_unzip/edrm-enron-v2_love-p_xml
+2016-10-08T20:52:50.049347: Read ./zeal_unzip/edrm-enron-v2_love-p_xml/zl_love-p_749_LH0P_000.xml
+2016-10-08T20:53:49.183748: Dump to ./state.json
+2016-10-08T20:53:49.237482: FILES: (9/151) Elapsed time 222s. Estimated finish time 3502s
+2016-10-08T20:53:50.044650: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_giron-d_xml.zip to ./zeal_unzip/edrm-enron-v2_giron-d_xml
+2016-10-08T20:54:24.151702: Read ./zeal_unzip/edrm-enron-v2_giron-d_xml/zl_giron-d_773_NCUM_000.xml
+2016-10-08T20:55:22.734389: Dump to ./state.json
+2016-10-08T20:55:22.790798: FILES: (10/151) Elapsed time 316s. Estimated finish time 4455s
+2016-10-08T20:55:23.529081: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_south-s_xml.zip to ./zeal_unzip/edrm-enron-v2_south-s_xml
+2016-10-08T20:55:23.752135: Read ./zeal_unzip/edrm-enron-v2_south-s_xml/zl_south-s_828_MPB2_000.xml
+2016-10-08T20:55:24.233459: Dump to ./state.json
+2016-10-08T20:55:24.291932: FILES: (11/151) Elapsed time 317s. Estimated finish time 4034s
+2016-10-08T20:55:24.308080: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_lucci-p_xml.zip to ./zeal_unzip/edrm-enron-v2_lucci-p_xml
+2016-10-08T20:55:25.767335: Read ./zeal_unzip/edrm-enron-v2_lucci-p_xml/zl_lucci-p_765_KBAN_000.xml
+2016-10-08T20:55:28.968553: Dump to ./state.json
+2016-10-08T20:55:29.030996: FILES: (12/151) Elapsed time 322s. Estimated finish time 3729s
+2016-10-08T20:55:29.108775: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_hodge-j_xml.zip to ./zeal_unzip/edrm-enron-v2_hodge-j_xml
+2016-10-08T20:55:32.388707: Read ./zeal_unzip/edrm-enron-v2_hodge-j_xml/zl_hodge-j_848_ADSQ_000.xml
+2016-10-08T20:55:40.340367: Read ./zeal_unzip/edrm-enron-v2_hodge-j_xml/native_000/3.776585.HEIAWWA0NF1EDEO02I11GQYCFZZG5GNGB.4.xml
+2016-10-08T20:55:40.341334: Read ./zeal_unzip/edrm-enron-v2_hodge-j_xml/native_000/3.776585.HEIAWWA0NF1EDEO02I11GQYCFZZG5GNGB.2.xml
+2016-10-08T20:55:40.355260: Dump to ./state.json
+2016-10-08T20:55:40.420467: FILES: (13/151) Elapsed time 334s. Estimated finish time 3545s
+2016-10-08T20:55:40.684234: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_blair-l_xml.zip to ./zeal_unzip/edrm-enron-v2_blair-l_xml
+2016-10-08T20:55:44.125689: Read ./zeal_unzip/edrm-enron-v2_blair-l_xml/zl_blair-l_925_IPSK_000.xml
+2016-10-08T20:55:52.284863: Read ./zeal_unzip/edrm-enron-v2_blair-l_xml/native_000/3.1178599.POV4F2BPN3ZZCQQD02XTFOHW40W1NTI5B.2.xml
+2016-10-08T20:55:52.287220: Read ./zeal_unzip/edrm-enron-v2_blair-l_xml/native_000/3.1178599.POV4F2BPN3ZZCQQD02XTFOHW40W1NTI5B.4.xml
+2016-10-08T20:55:52.301498: Dump to ./state.json
+2016-10-08T20:55:52.375650: FILES: (14/151) Elapsed time 346s. Estimated finish time 3385s
+2016-10-08T20:55:52.644535: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_badeer-r_xml.zip to ./zeal_unzip/edrm-enron-v2_badeer-r_xml
+2016-10-08T20:55:55.639795: Read ./zeal_unzip/edrm-enron-v2_badeer-r_xml/zl_badeer-r_702_BP3A_000.xml
+2016-10-08T20:56:02.482396: Dump to ./state.json
+2016-10-08T20:56:02.557221: FILES: (15/151) Elapsed time 356s. Estimated finish time 3227s
+2016-10-08T20:56:02.692552: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_rodrigue-r_xml.zip to ./zeal_unzip/edrm-enron-v2_rodrigue-r_xml
+2016-10-08T20:56:32.893454: Read ./zeal_unzip/edrm-enron-v2_rodrigue-r_xml/zl_rodrigue-r_806_B2TH_000.xml
+2016-10-08T20:57:11.793341: Dump to ./state.json
+2016-10-08T20:57:11.869470: FILES: (16/151) Elapsed time 425s. Estimated finish time 3585s
+2016-10-08T20:57:12.412695: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_weldon-c_xml.zip to ./zeal_unzip/edrm-enron-v2_weldon-c_xml
+2016-10-08T20:57:14.876922: Read ./zeal_unzip/edrm-enron-v2_weldon-c_xml/zl_weldon-c_619_E44L_000.xml
+2016-10-08T20:57:20.459590: Dump to ./state.json
+2016-10-08T20:57:20.538287: FILES: (17/151) Elapsed time 434s. Estimated finish time 3420s
+2016-10-08T20:57:20.689265: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_fossum-d_xml.zip to ./zeal_unzip/edrm-enron-v2_fossum-d_xml
+2016-10-08T20:57:30.259428: Read ./zeal_unzip/edrm-enron-v2_fossum-d_xml/zl_fossum-d_686_MYDO_000.xml
+2016-10-08T20:57:49.579781: Dump to ./state.json
+2016-10-08T20:57:49.660875: FILES: (18/151) Elapsed time 463s. Estimated finish time 3421s
+2016-10-08T20:57:50.447172: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_white-s_xml.zip to ./zeal_unzip/edrm-enron-v2_white-s_xml
+2016-10-08T20:57:58.966538: Read ./zeal_unzip/edrm-enron-v2_white-s_xml/zl_white-s_672_HJ3Q_000.xml
+2016-10-08T20:58:17.912952: Dump to ./state.json
+2016-10-08T20:58:17.997780: FILES: (19/151) Elapsed time 491s. Estimated finish time 3411s
+2016-10-08T20:58:18.482754: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_forney-j_xml.zip to ./zeal_unzip/edrm-enron-v2_forney-j_xml
+2016-10-08T20:58:19.454343: Read ./zeal_unzip/edrm-enron-v2_forney-j_xml/zl_forney-j_859_GNFM_000.xml
+2016-10-08T20:58:21.722866: Dump to ./state.json
+2016-10-08T20:58:21.807224: FILES: (20/151) Elapsed time 495s. Estimated finish time 3242s
+2016-10-08T20:58:21.871305: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_dean-c2_xml.zip to ./zeal_unzip/edrm-enron-v2_dean-c2_xml
+2016-10-08T20:58:22.741796: Read ./zeal_unzip/edrm-enron-v2_dean-c2_xml/zl_dean-c2_788_LPO2_000.xml
+2016-10-08T20:58:24.684057: Dump to ./state.json
+2016-10-08T20:58:24.771503: FILES: (21/151) Elapsed time 498s. Estimated finish time 3082s
+2016-10-08T20:58:24.833832: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_hayslett-r_xml.zip to ./zeal_unzip/edrm-enron-v2_hayslett-r_xml
+2016-10-08T20:58:30.022036: Read ./zeal_unzip/edrm-enron-v2_hayslett-r_xml/zl_hayslett-r_729_ARWL_000.xml
+2016-10-08T20:58:41.714827: Dump to ./state.json
+2016-10-08T20:58:41.804394: FILES: (22/151) Elapsed time 515s. Estimated finish time 3019s
+2016-10-08T20:58:42.237330: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_cash-m_xml.zip to ./zeal_unzip/edrm-enron-v2_cash-m_xml
+2016-10-08T20:58:47.335352: Read ./zeal_unzip/edrm-enron-v2_cash-m_xml/zl_cash-m_757_GDLS_000.xml
+2016-10-08T20:58:57.845166: Read ./zeal_unzip/edrm-enron-v2_cash-m_xml/native_000/3.515646.LQMMTSY50JWZGAB3JBPNML1MOVCM5SXZA.4.xml
+2016-10-08T20:58:57.846326: Read ./zeal_unzip/edrm-enron-v2_cash-m_xml/native_000/3.515646.LQMMTSY50JWZGAB3JBPNML1MOVCM5SXZA.2.xml
+2016-10-08T20:58:57.866993: Dump to ./state.json
+2016-10-08T20:58:57.961525: FILES: (23/151) Elapsed time 531s. Estimated finish time 2955s
+2016-10-08T20:58:58.404312: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_quenet-j_xml.zip to ./zeal_unzip/edrm-enron-v2_quenet-j_xml
+2016-10-08T20:58:58.761499: Read ./zeal_unzip/edrm-enron-v2_quenet-j_xml/zl_quenet-j_682_A03K_000.xml
+2016-10-08T20:58:59.536825: Dump to ./state.json
+2016-10-08T20:58:59.630615: FILES: (24/151) Elapsed time 533s. Estimated finish time 2820s
+2016-10-08T20:58:59.660688: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_haedicke-m_xml.zip to ./zeal_unzip/edrm-enron-v2_haedicke-m_xml
+2016-10-08T20:59:26.524636: Read ./zeal_unzip/edrm-enron-v2_haedicke-m_xml/zl_haedicke-m_850_A44M_001.xml
+2016-10-08T20:59:39.920618: Read ./zeal_unzip/edrm-enron-v2_haedicke-m_xml/zl_haedicke-m_850_A44M_002.xml
+2016-10-08T20:59:57.698095: Read ./zeal_unzip/edrm-enron-v2_haedicke-m_xml/zl_haedicke-m_850_A44M_003.xml
+2016-10-08T21:00:02.030128: Read ./zeal_unzip/edrm-enron-v2_haedicke-m_xml/zl_haedicke-m_850_A44M_000.xml
+2016-10-08T21:00:20.100614: Dump to ./state.json
+2016-10-08T21:00:20.205798: FILES: (25/151) Elapsed time 613s. Estimated finish time 3089s
+2016-10-08T21:00:22.358407: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_corman-s_xml.zip to ./zeal_unzip/edrm-enron-v2_corman-s_xml
+2016-10-08T21:00:25.465025: Read ./zeal_unzip/edrm-enron-v2_corman-s_xml/zl_corman-s_921_KOPI_000.xml
+2016-10-08T21:00:32.140698: Read ./zeal_unzip/edrm-enron-v2_corman-s_xml/native_000/3.1173637.KTX5I43KT3QZ3NL552UQX2A4QVKJPGHMB.5.xml
+2016-10-08T21:00:32.151572: Read ./zeal_unzip/edrm-enron-v2_corman-s_xml/native_000/3.1173926.ATTEC034O2YIJIHMXOPHA5SCUTWDANKAB.2.xml
+2016-10-08T21:00:32.154867: Read ./zeal_unzip/edrm-enron-v2_corman-s_xml/native_000/3.1173637.KTX5I43KT3QZ3NL552UQX2A4QVKJPGHMB.2.xml
+2016-10-08T21:00:32.155793: Read ./zeal_unzip/edrm-enron-v2_corman-s_xml/native_000/3.1173926.ATTEC034O2YIJIHMXOPHA5SCUTWDANKAB.4.xml
+2016-10-08T21:00:32.156347: Read ./zeal_unzip/edrm-enron-v2_corman-s_xml/native_000/3.1173637.KTX5I43KT3QZ3NL552UQX2A4QVKJPGHMB.4.xml
+2016-10-08T21:00:32.173078: Dump to ./state.json
+2016-10-08T21:00:32.283246: FILES: (26/151) Elapsed time 625s. Estimated finish time 3004s
+2016-10-08T21:00:32.521612: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_fischer-m2_xml.zip to ./zeal_unzip/edrm-enron-v2_fischer-m2_xml
+2016-10-08T21:00:33.591482: Read ./zeal_unzip/edrm-enron-v2_fischer-m2_xml/zl_fischer-m2_865_G3ZB_000.xml
+2016-10-08T21:00:35.884329: Dump to ./state.json
+2016-10-08T21:00:35.997812: FILES: (27/151) Elapsed time 629s. Estimated finish time 2888s
+2016-10-08T21:00:36.045102: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_scott-s_xml.zip to ./zeal_unzip/edrm-enron-v2_scott-s_xml
+2016-10-08T21:01:11.860763: Read ./zeal_unzip/edrm-enron-v2_scott-s_xml/zl_scott-s_927_FNWW_001.xml
+2016-10-08T21:01:31.684908: Read ./zeal_unzip/edrm-enron-v2_scott-s_xml/zl_scott-s_927_FNWW_000.xml
+2016-10-08T21:02:16.517826: Dump to ./state.json
+2016-10-08T21:02:16.643108: FILES: (28/151) Elapsed time 730s. Estimated finish time 3206s
+2016-10-08T21:02:18.154521: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_brawner-s_xml.zip to ./zeal_unzip/edrm-enron-v2_brawner-s_xml
+2016-10-08T21:02:19.575250: Read ./zeal_unzip/edrm-enron-v2_brawner-s_xml/zl_brawner-s_830_GMLK_000.xml
+2016-10-08T21:02:22.266797: Dump to ./state.json
+2016-10-08T21:02:22.394298: FILES: (29/151) Elapsed time 736s. Estimated finish time 3096s
+2016-10-08T21:02:22.485548: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_zufferli-j_xml.zip to ./zeal_unzip/edrm-enron-v2_zufferli-j_xml
+2016-10-08T21:02:24.268659: Read ./zeal_unzip/edrm-enron-v2_zufferli-j_xml/zl_zufferli-j_638_JLLU_000.xml
+2016-10-08T21:02:28.009238: Dump to ./state.json
+2016-10-08T21:02:28.137139: FILES: (30/151) Elapsed time 741s. Estimated finish time 2988s
+2016-10-08T21:02:28.232615: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_sager-e_xml.zip to ./zeal_unzip/edrm-enron-v2_sager-e_xml
+2016-10-08T21:02:48.162628: Read ./zeal_unzip/edrm-enron-v2_sager-e_xml/zl_sager-e_661_OU0L_001.xml
+2016-10-08T21:02:58.697683: Read ./zeal_unzip/edrm-enron-v2_sager-e_xml/zl_sager-e_661_OU0L_000.xml
+2016-10-08T21:03:23.352877: Read ./zeal_unzip/edrm-enron-v2_sager-e_xml/native_000/3.202989.NPNHICCUR3GKWFAZ2FMGOWB2M0VMFKZ0B.4.xml
+2016-10-08T21:03:23.356021: Read ./zeal_unzip/edrm-enron-v2_sager-e_xml/native_000/3.202989.NPNHICCUR3GKWFAZ2FMGOWB2M0VMFKZ0B.2.xml
+2016-10-08T21:03:23.388514: Dump to ./state.json
+2016-10-08T21:03:23.521564: FILES: (31/151) Elapsed time 797s. Estimated finish time 3085s
+2016-10-08T21:03:24.813973: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_ring-r_xml.zip to ./zeal_unzip/edrm-enron-v2_ring-r_xml
+2016-10-08T21:03:27.295145: Read ./zeal_unzip/edrm-enron-v2_ring-r_xml/zl_ring-r_715_B5BL_000.xml
+2016-10-08T21:03:32.836058: Dump to ./state.json
+2016-10-08T21:03:32.976010: FILES: (32/151) Elapsed time 806s. Estimated finish time 2997s
+2016-10-08T21:03:33.092678: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_merris-s_xml.zip to ./zeal_unzip/edrm-enron-v2_merris-s_xml
+2016-10-08T21:03:34.921878: Read ./zeal_unzip/edrm-enron-v2_merris-s_xml/zl_merris-s_798_OXBK_000.xml
+2016-10-08T21:03:39.448234: Dump to ./state.json
+2016-10-08T21:03:39.588976: FILES: (33/151) Elapsed time 813s. Estimated finish time 2907s
+2016-10-08T21:03:39.730051: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_dickson-s_xml.zip to ./zeal_unzip/edrm-enron-v2_dickson-s_xml
+2016-10-08T21:03:40.760911: Read ./zeal_unzip/edrm-enron-v2_dickson-s_xml/zl_dickson-s_784_KAHG_000.xml
+2016-10-08T21:03:42.824531: Dump to ./state.json
+2016-10-08T21:03:42.965204: FILES: (34/151) Elapsed time 816s. Estimated finish time 2808s
+2016-10-08T21:03:43.018570: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_davis-d_xml.zip to ./zeal_unzip/edrm-enron-v2_davis-d_xml
+2016-10-08T21:03:55.484188: Read ./zeal_unzip/edrm-enron-v2_davis-d_xml/zl_davis-d_706_E0IV_000.xml
+2016-10-08T21:04:12.768717: Dump to ./state.json
+2016-10-08T21:04:12.913648: FILES: (35/151) Elapsed time 846s. Estimated finish time 2803s
+2016-10-08T21:04:13.216406: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_grigsby-m_xml.zip to ./zeal_unzip/edrm-enron-v2_grigsby-m_xml
+2016-10-08T21:04:22.533165: Read ./zeal_unzip/edrm-enron-v2_grigsby-m_xml/zl_grigsby-m_657_ODGG_000.xml
+2016-10-08T21:04:36.879105: Dump to ./state.json
+2016-10-08T21:04:37.024904: FILES: (36/151) Elapsed time 870s. Estimated finish time 2779s
+2016-10-08T21:04:37.278836: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_nemec-g_xml.zip to ./zeal_unzip/edrm-enron-v2_nemec-g_xml
+2016-10-08T21:05:11.098191: Read ./zeal_unzip/edrm-enron-v2_nemec-g_xml/zl_nemec-g_759_DSMW_001.xml
+2016-10-08T21:05:41.570820: Read ./zeal_unzip/edrm-enron-v2_nemec-g_xml/zl_nemec-g_759_DSMW_000.xml
+2016-10-08T21:06:16.082535: Read ./zeal_unzip/edrm-enron-v2_nemec-g_xml/native_001/3.529950.PJGALFRJNEHFDAHMFG3AKJAQV2VQMOAPB.4.xml
+2016-10-08T21:06:16.083691: Read ./zeal_unzip/edrm-enron-v2_nemec-g_xml/native_001/3.529950.PJGALFRJNEHFDAHMFG3AKJAQV2VQMOAPB.2.xml
+2016-10-08T21:06:16.167097: Dump to ./state.json
+2016-10-08T21:06:16.325405: FILES: (37/151) Elapsed time 969s. Estimated finish time 2985s
+2016-10-08T21:06:18.370895: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_shapiro-r_xml.zip to ./zeal_unzip/edrm-enron-v2_shapiro-r_xml
+2016-10-08T21:06:45.374607: Read ./zeal_unzip/edrm-enron-v2_shapiro-r_xml/zl_shapiro-r_915_CLV1_000.xml
+2016-10-08T21:07:09.949370: Read ./zeal_unzip/edrm-enron-v2_shapiro-r_xml/zl_shapiro-r_915_CLV1_001.xml
+2016-10-08T21:07:28.985112: Dump to ./state.json
+2016-10-08T21:07:29.150139: FILES: (38/151) Elapsed time 1042s. Estimated finish time 3098s
+2016-10-08T21:07:30.550635: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_swerzbin-m_xml.zip to ./zeal_unzip/edrm-enron-v2_swerzbin-m_xml
+2016-10-08T21:07:32.663751: Read ./zeal_unzip/edrm-enron-v2_swerzbin-m_xml/zl_swerzbin-m_745_PLGS_000.xml
+2016-10-08T21:07:36.779380: Dump to ./state.json
+2016-10-08T21:07:36.947488: FILES: (39/151) Elapsed time 1050s. Estimated finish time 3015s
+2016-10-08T21:07:37.017509: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_zipper-a_xml.zip to ./zeal_unzip/edrm-enron-v2_zipper-a_xml
+2016-10-08T21:07:45.666320: Read ./zeal_unzip/edrm-enron-v2_zipper-a_xml/zl_zipper-a_869_KQBL_000.xml
+2016-10-08T21:08:03.731742: Read ./zeal_unzip/edrm-enron-v2_zipper-a_xml/native_000/3.837241.CXLQI2LYHJ5JVKE30YTYVGYQZWKY0A1HB.3.xml
+2016-10-08T21:08:03.749214: Read ./zeal_unzip/edrm-enron-v2_zipper-a_xml/native_000/3.837241.CXLQI2LYHJ5JVKE30YTYVGYQZWKY0A1HB.5.xml
+2016-10-08T21:08:03.752580: Read ./zeal_unzip/edrm-enron-v2_zipper-a_xml/native_000/3.837241.CXLQI2LYHJ5JVKE30YTYVGYQZWKY0A1HB.4.xml
+2016-10-08T21:08:03.765392: Read ./zeal_unzip/edrm-enron-v2_zipper-a_xml/native_000/3.837241.CXLQI2LYHJ5JVKE30YTYVGYQZWKY0A1HB.6.xml
+2016-10-08T21:08:03.840135: Dump to ./state.json
+2016-10-08T21:08:04.009605: FILES: (40/151) Elapsed time 1077s. Estimated finish time 2988s
+2016-10-08T21:08:04.456724: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_williams-j_xml.zip to ./zeal_unzip/edrm-enron-v2_williams-j_xml
+2016-10-08T21:08:08.058674: Read ./zeal_unzip/edrm-enron-v2_williams-j_xml/zl_williams-j_653_GC2E_000.xml
+2016-10-08T21:08:16.595817: Dump to ./state.json
+2016-10-08T21:08:16.788993: FILES: (41/151) Elapsed time 1090s. Estimated finish time 2924s
+2016-10-08T21:08:17.541806: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_williams-b_xml.zip to ./zeal_unzip/edrm-enron-v2_williams-b_xml
+2016-10-08T21:08:20.851611: Read ./zeal_unzip/edrm-enron-v2_williams-b_xml/zl_williams-b_909_AGO3_000.xml
+2016-10-08T21:08:28.442631: Read ./zeal_unzip/edrm-enron-v2_williams-b_xml/native_000/3.1132108.PBODMU1MFSWXP00BKYPINEV2DXCTE3RNA.2.xml
+2016-10-08T21:08:28.444755: Read ./zeal_unzip/edrm-enron-v2_williams-b_xml/native_000/3.1132108.PBODMU1MFSWXP00BKYPINEV2DXCTE3RNA.3.xml
+2016-10-08T21:08:28.466054: Dump to ./state.json
+2016-10-08T21:08:28.643230: FILES: (42/151) Elapsed time 1102s. Estimated finish time 2859s
+2016-10-08T21:08:28.859144: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_lokay-m_xml.zip to ./zeal_unzip/edrm-enron-v2_lokay-m_xml
+2016-10-08T21:08:41.508769: Read ./zeal_unzip/edrm-enron-v2_lokay-m_xml/zl_lokay-m_792_CB1V_001.xml
+2016-10-08T21:08:41.825587: Read ./zeal_unzip/edrm-enron-v2_lokay-m_xml/zl_lokay-m_792_CB1V_000.xml
+2016-10-08T21:09:05.094573: Dump to ./state.json
+2016-10-08T21:09:05.273922: FILES: (43/151) Elapsed time 1138s. Estimated finish time 2858s
+2016-10-08T21:09:05.952931: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_shankman-j_xml.zip to ./zeal_unzip/edrm-enron-v2_shankman-j_xml
+2016-10-08T21:09:18.282408: Read ./zeal_unzip/edrm-enron-v2_shankman-j_xml/zl_shankman-j_644_LMLO_000.xml
+2016-10-08T21:09:38.285354: Read ./zeal_unzip/edrm-enron-v2_shankman-j_xml/zl_shankman-j_644_LMLO_001.xml
+2016-10-08T21:09:39.104421: Dump to ./state.json
+2016-10-08T21:09:39.290317: FILES: (44/151) Elapsed time 1172s. Estimated finish time 2850s
+2016-10-08T21:09:39.930316: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_kaminski-v_xml.zip to ./zeal_unzip/edrm-enron-v2_kaminski-v_xml
+2016-10-08T21:09:39.930526: Exception (zipfile.BadZipFile): zipfiles that span multiple disks are not supported
+2016-10-08T21:09:39.930630: FILES: (45/151) Elapsed time 1173s. Estimated finish time 2763s
+2016-10-08T21:09:39.930739: Can't delete ./zeal_unzip/edrm-enron-v2_kaminski-v_xml
+2016-10-08T21:09:39.930815: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_sturm-f_xml.zip to ./zeal_unzip/edrm-enron-v2_kaminski-v_xml
+2016-10-08T21:09:42.057849: Read ./zeal_unzip/edrm-enron-v2_kaminski-v_xml/zl_sturm-f_627_MZZE_000.xml
+2016-10-08T21:09:46.495816: Dump to ./state.json
+2016-10-08T21:09:46.683240: FILES: (46/151) Elapsed time 1180s. Estimated finish time 2693s
+2016-10-08T21:09:46.876427: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_benson-r_xml.zip to ./zeal_unzip/edrm-enron-v2_benson-r_xml
+2016-10-08T21:09:48.285345: Read ./zeal_unzip/edrm-enron-v2_benson-r_xml/zl_benson-r_855_LE3D_000.xml
+2016-10-08T21:09:51.221464: Dump to ./state.json
+2016-10-08T21:09:51.409575: FILES: (47/151) Elapsed time 1185s. Estimated finish time 2622s
+2016-10-08T21:09:51.480761: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_hodge-j2_xml.zip to ./zeal_unzip/edrm-enron-v2_hodge-j2_xml
+2016-10-08T21:09:52.623262: Read ./zeal_unzip/edrm-enron-v2_hodge-j2_xml/zl_hodge-j2_655_JNJW_000.xml
+2016-10-08T21:09:55.145371: Dump to ./state.json
+2016-10-08T21:09:55.333124: FILES: (48/151) Elapsed time 1188s. Estimated finish time 2549s
+2016-10-08T21:09:55.403656: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_baughman-d_xml.zip to ./zeal_unzip/edrm-enron-v2_baughman-d_xml
+2016-10-08T21:10:02.511753: Read ./zeal_unzip/edrm-enron-v2_baughman-d_xml/zl_baughman-d_767_OXM5_000.xml
+2016-10-08T21:10:16.588385: Dump to ./state.json
+2016-10-08T21:10:16.786309: FILES: (49/151) Elapsed time 1210s. Estimated finish time 2518s
+2016-10-08T21:10:17.223430: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_linder-e_xml.zip to ./zeal_unzip/edrm-enron-v2_linder-e_xml
+2016-10-08T21:10:20.190723: Read ./zeal_unzip/edrm-enron-v2_linder-e_xml/zl_linder-e_636_LSHX_000.xml
+2016-10-08T21:10:27.883126: Dump to ./state.json
+2016-10-08T21:10:28.079385: FILES: (50/151) Elapsed time 1221s. Estimated finish time 2466s
+2016-10-08T21:10:28.317659: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_allen-p_xml.zip to ./zeal_unzip/edrm-enron-v2_allen-p_xml
+2016-10-08T21:10:53.243275: Read ./zeal_unzip/edrm-enron-v2_allen-p_xml/zl_allen-p_863_K14C_000.xml
+2016-10-08T21:11:34.369641: Dump to ./state.json
+2016-10-08T21:11:34.568099: FILES: (51/151) Elapsed time 1288s. Estimated finish time 2525s
+2016-10-08T21:11:35.259876: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_symes-k_xml.zip to ./zeal_unzip/edrm-enron-v2_symes-k_xml
+2016-10-08T21:12:16.428409: Read ./zeal_unzip/edrm-enron-v2_symes-k_xml/zl_symes-k_743_DGJW_000.xml
+2016-10-08T21:13:18.169326: Read ./zeal_unzip/edrm-enron-v2_symes-k_xml/zl_symes-k_743_DGJW_001.xml
+2016-10-08T21:13:32.240664: Dump to ./state.json
+2016-10-08T21:13:32.440346: FILES: (52/151) Elapsed time 1406s. Estimated finish time 2676s
+2016-10-08T21:13:33.649249: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_donoho-l_xml.zip to ./zeal_unzip/edrm-enron-v2_donoho-l_xml
+2016-10-08T21:13:35.253439: Read ./zeal_unzip/edrm-enron-v2_donoho-l_xml/zl_donoho-l_883_FT3L_000.xml
+2016-10-08T21:13:39.387117: Dump to ./state.json
+2016-10-08T21:13:39.586245: FILES: (53/151) Elapsed time 1413s. Estimated finish time 2612s
+2016-10-08T21:13:39.678212: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_mckay-b_xml.zip to ./zeal_unzip/edrm-enron-v2_mckay-b_xml
+2016-10-08T21:13:40.722062: Read ./zeal_unzip/edrm-enron-v2_mckay-b_xml/zl_mckay-b_816_D34R_000.xml
+2016-10-08T21:13:42.928687: Dump to ./state.json
+2016-10-08T21:13:43.125601: FILES: (54/151) Elapsed time 1416s. Estimated finish time 2543s
+2016-10-08T21:13:43.201515: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_sanders-r_xml.zip to ./zeal_unzip/edrm-enron-v2_sanders-r_xml
+2016-10-08T21:14:02.106469: Read ./zeal_unzip/edrm-enron-v2_sanders-r_xml/zl_sanders-r_680_BZZA_000.xml
+2016-10-08T21:14:29.062158: Dump to ./state.json
+2016-10-08T21:14:29.268388: FILES: (55/151) Elapsed time 1462s. Estimated finish time 2551s
+2016-10-08T21:14:30.132172: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_mims-p_xml.zip to ./zeal_unzip/edrm-enron-v2_mims-p_xml
+2016-10-08T21:14:32.674608: Read ./zeal_unzip/edrm-enron-v2_mims-p_xml/zl_mims-p_613_OCWO_000.xml
+2016-10-08T21:14:37.953452: Dump to ./state.json
+2016-10-08T21:14:38.155894: FILES: (56/151) Elapsed time 1471s. Estimated finish time 2495s
+2016-10-08T21:14:38.407547: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_holst-k_xml.zip to ./zeal_unzip/edrm-enron-v2_holst-k_xml
+2016-10-08T21:14:39.747828: Read ./zeal_unzip/edrm-enron-v2_holst-k_xml/zl_holst-k_907_IXIG_000.xml
+2016-10-08T21:14:43.247508: Dump to ./state.json
+2016-10-08T21:14:43.450796: FILES: (57/151) Elapsed time 1477s. Estimated finish time 2435s
+2016-10-08T21:14:43.508353: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_schwieger-j_xml.zip to ./zeal_unzip/edrm-enron-v2_schwieger-j_xml
+2016-10-08T21:14:45.372803: Read ./zeal_unzip/edrm-enron-v2_schwieger-j_xml/zl_schwieger-j_877_GXTT_000.xml
+2016-10-08T21:14:48.913604: Dump to ./state.json
+2016-10-08T21:14:49.118130: FILES: (58/151) Elapsed time 1482s. Estimated finish time 2376s
+2016-10-08T21:14:49.215902: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_mccarty-d_xml.zip to ./zeal_unzip/edrm-enron-v2_mccarty-d_xml
+2016-10-08T21:14:50.548577: Read ./zeal_unzip/edrm-enron-v2_mccarty-d_xml/zl_mccarty-d_894_JEA1_000.xml
+2016-10-08T21:14:53.420579: Dump to ./state.json
+2016-10-08T21:14:53.624113: FILES: (59/151) Elapsed time 1487s. Estimated finish time 2318s
+2016-10-08T21:14:53.731524: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_shively-h_xml.zip to ./zeal_unzip/edrm-enron-v2_shively-h_xml
+2016-10-08T21:14:59.621665: Read ./zeal_unzip/edrm-enron-v2_shively-h_xml/zl_shively-h_659_FMBU_000.xml
+2016-10-08T21:15:10.614150: Dump to ./state.json
+2016-10-08T21:15:10.823300: FILES: (60/151) Elapsed time 1504s. Estimated finish time 2281s
+2016-10-08T21:15:11.123043: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_whitt-m_xml.zip to ./zeal_unzip/edrm-enron-v2_whitt-m_xml
+2016-10-08T21:15:12.931223: Read ./zeal_unzip/edrm-enron-v2_whitt-m_xml/zl_whitt-m_755_MICR_000.xml
+2016-10-08T21:15:16.510438: Dump to ./state.json
+2016-10-08T21:15:16.721803: FILES: (61/151) Elapsed time 1510s. Estimated finish time 2227s
+2016-10-08T21:15:16.827428: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_hain-m_xml.zip to ./zeal_unzip/edrm-enron-v2_hain-m_xml
+2016-10-08T21:15:26.756911: Read ./zeal_unzip/edrm-enron-v2_hain-m_xml/zl_hain-m_733_FT2L_000.xml
+2016-10-08T21:15:45.176110: Dump to ./state.json
+2016-10-08T21:15:45.389655: FILES: (62/151) Elapsed time 1539s. Estimated finish time 2209s
+2016-10-08T21:15:45.886943: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_dean-c_xml.zip to ./zeal_unzip/edrm-enron-v2_dean-c_xml
+2016-10-08T21:15:49.511930: Read ./zeal_unzip/edrm-enron-v2_dean-c_xml/zl_dean-c_771_EUTB_000.xml
+2016-10-08T21:15:56.321469: Dump to ./state.json
+2016-10-08T21:15:56.541188: FILES: (63/151) Elapsed time 1550s. Estimated finish time 2165s
+2016-10-08T21:15:56.700256: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_skilling-j_xml.zip to ./zeal_unzip/edrm-enron-v2_skilling-j_xml
+2016-10-08T21:16:41.053628: Read ./zeal_unzip/edrm-enron-v2_skilling-j_xml/zl_skilling-j_650_PSAD_003.xml
+2016-10-08T21:16:43.214273: Read ./zeal_unzip/edrm-enron-v2_skilling-j_xml/zl_skilling-j_650_PSAD_001.xml
+2016-10-08T21:17:24.299463: Read ./zeal_unzip/edrm-enron-v2_skilling-j_xml/zl_skilling-j_650_PSAD_002.xml
+2016-10-08T21:17:46.933320: Read ./zeal_unzip/edrm-enron-v2_skilling-j_xml/zl_skilling-j_650_PSAD_000.xml
+2016-10-08T21:18:08.919550: Dump to ./state.json
+2016-10-08T21:18:09.151305: FILES: (64/151) Elapsed time 1682s. Estimated finish time 2286s
+2016-10-08T21:18:11.346963: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_semperger-c_xml.zip to ./zeal_unzip/edrm-enron-v2_semperger-c_xml
+2016-10-08T21:18:12.511604: Read ./zeal_unzip/edrm-enron-v2_semperger-c_xml/zl_semperger-c_796_AXMB_000.xml
+2016-10-08T21:18:15.154141: Dump to ./state.json
+2016-10-08T21:18:15.384393: FILES: (65/151) Elapsed time 1689s. Estimated finish time 2234s
+2016-10-08T21:18:15.460457: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_lenhart-m_xml.zip to ./zeal_unzip/edrm-enron-v2_lenhart-m_xml
+2016-10-08T21:19:15.519605: Read ./zeal_unzip/edrm-enron-v2_lenhart-m_xml/zl_lenhart-m_625_KPJF_000.xml
+2016-10-08T21:20:42.921621: Dump to ./state.json
+2016-10-08T21:20:43.155899: FILES: (66/151) Elapsed time 1836s. Estimated finish time 2364s
+2016-10-08T21:20:44.118153: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_smith-m_xml.zip to ./zeal_unzip/edrm-enron-v2_smith-m_xml
+2016-10-08T21:20:48.814450: Read ./zeal_unzip/edrm-enron-v2_smith-m_xml/zl_smith-m_820_PLAV_000.xml
+2016-10-08T21:20:58.842049: Dump to ./state.json
+2016-10-08T21:20:59.078917: FILES: (67/151) Elapsed time 1852s. Estimated finish time 2321s
+2016-10-08T21:20:59.282279: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_saibi-e_xml.zip to ./zeal_unzip/edrm-enron-v2_saibi-e_xml
+2016-10-08T21:21:01.605770: Read ./zeal_unzip/edrm-enron-v2_saibi-e_xml/zl_saibi-e_790_ADJM_000.xml
+2016-10-08T21:21:07.119564: Dump to ./state.json
+2016-10-08T21:21:07.358257: FILES: (68/151) Elapsed time 1861s. Estimated finish time 2271s
+2016-10-08T21:21:07.542557: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_heard-m_xml.zip to ./zeal_unzip/edrm-enron-v2_heard-m_xml
+2016-10-08T21:21:09.965734: Read ./zeal_unzip/edrm-enron-v2_heard-m_xml/zl_heard-m_800_NDX3_000.xml
+2016-10-08T21:21:14.986010: Read ./zeal_unzip/edrm-enron-v2_heard-m_xml/native_000/3.644689.EXD1NWKG2PZC2CSKKIHEEGIBBD5YGN3NB.2.xml
+2016-10-08T21:21:14.987434: Read ./zeal_unzip/edrm-enron-v2_heard-m_xml/native_000/3.644689.EXD1NWKG2PZC2CSKKIHEEGIBBD5YGN3NB.4.xml
+2016-10-08T21:21:15.012931: Dump to ./state.json
+2016-10-08T21:21:15.252995: FILES: (69/151) Elapsed time 1868s. Estimated finish time 2219s
+2016-10-08T21:21:15.399736: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_carson-m_xml.zip to ./zeal_unzip/edrm-enron-v2_carson-m_xml
+2016-10-08T21:21:17.366508: Read ./zeal_unzip/edrm-enron-v2_carson-m_xml/zl_carson-m_663_IRJA_000.xml
+2016-10-08T21:21:22.021095: Dump to ./state.json
+2016-10-08T21:21:22.265808: FILES: (70/151) Elapsed time 1875s. Estimated finish time 2169s
+2016-10-08T21:21:22.559513: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_cuilla-m_xml.zip to ./zeal_unzip/edrm-enron-v2_cuilla-m_xml
+2016-10-08T21:21:23.841106: Read ./zeal_unzip/edrm-enron-v2_cuilla-m_xml/zl_cuilla-m_611_KR10_000.xml
+2016-10-08T21:21:26.256625: Dump to ./state.json
+2016-10-08T21:21:26.501474: FILES: (71/151) Elapsed time 1880s. Estimated finish time 2118s
+2016-10-08T21:21:26.588185: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_ward-k_xml.zip to ./zeal_unzip/edrm-enron-v2_ward-k_xml
+2016-10-08T21:21:33.204732: Read ./zeal_unzip/edrm-enron-v2_ward-k_xml/zl_ward-k_881_E5X1_000.xml
+2016-10-08T21:21:46.690378: Dump to ./state.json
+2016-10-08T21:21:46.943366: FILES: (72/151) Elapsed time 1900s. Estimated finish time 2084s
+2016-10-08T21:21:47.438474: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_buy-r_xml.zip to ./zeal_unzip/edrm-enron-v2_buy-r_xml
+2016-10-08T21:21:59.484801: Read ./zeal_unzip/edrm-enron-v2_buy-r_xml/zl_buy-r_609_PTX4_001.xml
+2016-10-08T21:22:12.218204: Read ./zeal_unzip/edrm-enron-v2_buy-r_xml/zl_buy-r_609_PTX4_000.xml
+2016-10-08T21:22:22.175860: Dump to ./state.json
+2016-10-08T21:22:22.433695: FILES: (73/151) Elapsed time 1936s. Estimated finish time 2068s
+2016-10-08T21:22:23.302407: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_mcconnell-m_xml.zip to ./zeal_unzip/edrm-enron-v2_mcconnell-m_xml
+2016-10-08T21:22:44.460686: Read ./zeal_unzip/edrm-enron-v2_mcconnell-m_xml/zl_mcconnell-m_696_F2ZY_001.xml
+2016-10-08T21:22:52.006098: Read ./zeal_unzip/edrm-enron-v2_mcconnell-m_xml/zl_mcconnell-m_696_F2ZY_000.xml
+2016-10-08T21:23:15.147246: Dump to ./state.json
+2016-10-08T21:23:15.409674: FILES: (74/151) Elapsed time 1989s. Estimated finish time 2069s
+2016-10-08T21:23:16.376219: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_pereira-s_xml.zip to ./zeal_unzip/edrm-enron-v2_pereira-s_xml
+2016-10-08T21:23:16.784257: Read ./zeal_unzip/edrm-enron-v2_pereira-s_xml/zl_pereira-s_700_CFMC_000.xml
+2016-10-08T21:23:17.674312: Dump to ./state.json
+2016-10-08T21:23:17.936163: FILES: (75/151) Elapsed time 1991s. Estimated finish time 2017s
+2016-10-08T21:23:17.972615: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_stokley-c_xml.zip to ./zeal_unzip/edrm-enron-v2_stokley-c_xml
+2016-10-08T21:23:20.687578: Read ./zeal_unzip/edrm-enron-v2_stokley-c_xml/zl_stokley-c_698_E0TW_000.xml
+2016-10-08T21:23:26.319929: Dump to ./state.json
+2016-10-08T21:23:26.582035: FILES: (76/151) Elapsed time 2000s. Estimated finish time 1973s
+2016-10-08T21:23:26.711530: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_platter-p_xml.zip to ./zeal_unzip/edrm-enron-v2_platter-p_xml
+2016-10-08T21:23:27.968635: Read ./zeal_unzip/edrm-enron-v2_platter-p_xml/zl_platter-p_857_LIIU_000.xml
+2016-10-08T21:23:31.001062: Dump to ./state.json
+2016-10-08T21:23:31.267767: FILES: (77/151) Elapsed time 2004s. Estimated finish time 1925s
+2016-10-08T21:23:31.333484: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_sanchez-m_xml.zip to ./zeal_unzip/edrm-enron-v2_sanchez-m_xml
+2016-10-08T21:23:31.936889: Read ./zeal_unzip/edrm-enron-v2_sanchez-m_xml/zl_sanchez-m_892_HUYD_000.xml
+2016-10-08T21:23:33.418962: Dump to ./state.json
+2016-10-08T21:23:33.683246: FILES: (78/151) Elapsed time 2007s. Estimated finish time 1878s
+2016-10-08T21:23:33.717276: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_neal-s_xml.zip to ./zeal_unzip/edrm-enron-v2_neal-s_xml
+2016-10-08T21:23:43.275386: Read ./zeal_unzip/edrm-enron-v2_neal-s_xml/zl_neal-s_674_KZSB_000.xml
+2016-10-08T21:24:00.155908: Dump to ./state.json
+2016-10-08T21:24:00.419783: FILES: (79/151) Elapsed time 2034s. Estimated finish time 1853s
+2016-10-08T21:24:00.868980: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_richey-c_xml.zip to ./zeal_unzip/edrm-enron-v2_richey-c_xml
+2016-10-08T21:24:02.571782: Read ./zeal_unzip/edrm-enron-v2_richey-c_xml/zl_richey-c_678_GQJZ_000.xml
+2016-10-08T21:24:06.560073: Read ./zeal_unzip/edrm-enron-v2_richey-c_xml/native_000/3.265045.D02MGGIEE2LBNOCEYFGEQYDZDUZS4KLUA.1.xml
+2016-10-08T21:24:06.594507: Dump to ./state.json
+2016-10-08T21:24:06.860152: FILES: (80/151) Elapsed time 2040s. Estimated finish time 1810s
+2016-10-08T21:24:06.954292: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_keiser-k_xml.zip to ./zeal_unzip/edrm-enron-v2_keiser-k_xml
+2016-10-08T21:24:10.350143: Read ./zeal_unzip/edrm-enron-v2_keiser-k_xml/zl_keiser-k_923_JHEA_000.xml
+2016-10-08T21:24:18.703286: Dump to ./state.json
+2016-10-08T21:24:19.041355: FILES: (81/151) Elapsed time 2052s. Estimated finish time 1773s
+2016-10-08T21:24:19.674483: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_king-j_xml.zip to ./zeal_unzip/edrm-enron-v2_king-j_xml
+2016-10-08T21:24:20.317245: Read ./zeal_unzip/edrm-enron-v2_king-j_xml/zl_king-j_932_KZR3_000.xml
+2016-10-08T21:24:21.756835: Dump to ./state.json
+2016-10-08T21:24:22.027162: FILES: (82/151) Elapsed time 2055s. Estimated finish time 1729s
+2016-10-08T21:24:22.081848: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_solberg-g_xml.zip to ./zeal_unzip/edrm-enron-v2_solberg-g_xml
+2016-10-08T21:24:23.390247: Read ./zeal_unzip/edrm-enron-v2_solberg-g_xml/zl_solberg-g_911_BRDF_000.xml
+2016-10-08T21:24:26.246984: Dump to ./state.json
+2016-10-08T21:24:26.517328: FILES: (83/151) Elapsed time 2060s. Estimated finish time 1687s
+2016-10-08T21:24:26.588695: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_crandall-s_xml.zip to ./zeal_unzip/edrm-enron-v2_crandall-s_xml
+2016-10-08T21:24:27.805059: Read ./zeal_unzip/edrm-enron-v2_crandall-s_xml/zl_crandall-s_648_D0FM_000.xml
+2016-10-08T21:24:30.438483: Dump to ./state.json
+2016-10-08T21:24:30.713995: FILES: (84/151) Elapsed time 2064s. Estimated finish time 1646s
+2016-10-08T21:24:30.774667: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_donohoe-t_xml.zip to ./zeal_unzip/edrm-enron-v2_donohoe-t_xml
+2016-10-08T21:24:32.905615: Read ./zeal_unzip/edrm-enron-v2_donohoe-t_xml/zl_donohoe-t_824_CJVF_000.xml
+2016-10-08T21:24:37.340984: Dump to ./state.json
+2016-10-08T21:24:37.617531: FILES: (85/151) Elapsed time 2071s. Estimated finish time 1608s
+2016-10-08T21:24:37.760276: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_martin-t_xml.zip to ./zeal_unzip/edrm-enron-v2_martin-t_xml
+2016-10-08T21:24:40.377237: Read ./zeal_unzip/edrm-enron-v2_martin-t_xml/zl_martin-t_621_PWM4_000.xml
+2016-10-08T21:24:46.198069: Dump to ./state.json
+2016-10-08T21:24:46.475623: FILES: (86/151) Elapsed time 2080s. Estimated finish time 1572s
+2016-10-08T21:24:46.650728: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_horton-s_xml.zip to ./zeal_unzip/edrm-enron-v2_horton-s_xml
+2016-10-08T21:24:54.462242: Read ./zeal_unzip/edrm-enron-v2_horton-s_xml/zl_horton-s_751_B4CU_000.xml
+2016-10-08T21:25:04.451615: Read ./zeal_unzip/edrm-enron-v2_horton-s_xml/zl_horton-s_751_B4CU_001.xml
+2016-10-08T21:25:10.294620: Dump to ./state.json
+2016-10-08T21:25:10.571606: FILES: (87/151) Elapsed time 2104s. Estimated finish time 1547s
+2016-10-08T21:25:11.437327: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_dorland-c_xml.zip to ./zeal_unzip/edrm-enron-v2_dorland-c_xml
+2016-10-08T21:25:33.618976: Read ./zeal_unzip/edrm-enron-v2_dorland-c_xml/zl_dorland-c_780_DOEY_000.xml
+2016-10-08T21:26:14.153821: Read ./zeal_unzip/edrm-enron-v2_dorland-c_xml/zl_dorland-c_780_DOEY_001.xml
+2016-10-08T21:26:15.585835: Dump to ./state.json
+2016-10-08T21:26:15.864168: FILES: (88/151) Elapsed time 2169s. Estimated finish time 1552s
+2016-10-08T21:26:16.534636: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_kuykendall-t_xml.zip to ./zeal_unzip/edrm-enron-v2_kuykendall-t_xml
+2016-10-08T21:26:19.080816: Read ./zeal_unzip/edrm-enron-v2_kuykendall-t_xml/zl_kuykendall-t_723_OOMK_000.xml
+2016-10-08T21:26:23.819428: Read ./zeal_unzip/edrm-enron-v2_kuykendall-t_xml/native_000/3.410363.NZD1EQNISWMOZKT4OJOAIVUZOUL5RNSUB.1.xml
+2016-10-08T21:26:23.869982: Dump to ./state.json
+2016-10-08T21:26:24.151690: FILES: (89/151) Elapsed time 2177s. Estimated finish time 1516s
+2016-10-08T21:26:24.279912: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_arnold-j_xml.zip to ./zeal_unzip/edrm-enron-v2_arnold-j_xml
+2016-10-08T21:26:37.520716: Read ./zeal_unzip/edrm-enron-v2_arnold-j_xml/zl_arnold-j_615_FDX2_001.xml
+2016-10-08T21:26:37.619699: Read ./zeal_unzip/edrm-enron-v2_arnold-j_xml/zl_arnold-j_615_FDX2_000.xml
+2016-10-08T21:26:58.298039: Dump to ./state.json
+2016-10-08T21:26:58.580967: FILES: (90/151) Elapsed time 2212s. Estimated finish time 1499s
+2016-10-08T21:26:59.277536: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_gay-r_xml.zip to ./zeal_unzip/edrm-enron-v2_gay-r_xml
+2016-10-08T21:27:04.870861: Read ./zeal_unzip/edrm-enron-v2_gay-r_xml/zl_gay-r_826_PJ1B_000.xml
+2016-10-08T21:27:14.750154: Dump to ./state.json
+2016-10-08T21:27:15.036042: FILES: (91/151) Elapsed time 2228s. Estimated finish time 1469s
+2016-10-08T21:27:15.330510: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_mckay-j_xml.zip to ./zeal_unzip/edrm-enron-v2_mckay-j_xml
+2016-10-08T21:27:21.327928: Read ./zeal_unzip/edrm-enron-v2_mckay-j_xml/zl_mckay-j_684_H5B5_000.xml
+2016-10-08T21:27:34.511011: Dump to ./state.json
+2016-10-08T21:27:34.800181: FILES: (92/151) Elapsed time 2248s. Estimated finish time 1441s
+2016-10-08T21:27:34.992331: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_wolfe-j_xml.zip to ./zeal_unzip/edrm-enron-v2_wolfe-j_xml
+2016-10-08T21:27:38.375340: Read ./zeal_unzip/edrm-enron-v2_wolfe-j_xml/zl_wolfe-j_885_BRW1_000.xml
+2016-10-08T21:27:45.586801: Dump to ./state.json
+2016-10-08T21:27:45.879283: FILES: (93/151) Elapsed time 2259s. Estimated finish time 1408s
+2016-10-08T21:27:46.062001: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_watson-k_xml.zip to ./zeal_unzip/edrm-enron-v2_watson-k_xml
+2016-10-08T21:27:49.762906: Read ./zeal_unzip/edrm-enron-v2_watson-k_xml/zl_watson-k_802_EQIJ_000.xml
+2016-10-08T21:27:58.701411: Dump to ./state.json
+2016-10-08T21:27:58.994941: FILES: (94/151) Elapsed time 2272s. Estimated finish time 1377s
+2016-10-08T21:27:59.230329: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_parks-j_xml.zip to ./zeal_unzip/edrm-enron-v2_parks-j_xml
+2016-10-08T21:28:04.073068: Read ./zeal_unzip/edrm-enron-v2_parks-j_xml/zl_parks-j_846_DEYT_000.xml
+2016-10-08T21:28:14.601001: Dump to ./state.json
+2016-10-08T21:28:14.898905: FILES: (95/151) Elapsed time 2288s. Estimated finish time 1348s
+2016-10-08T21:28:15.139213: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_ring-a_xml.zip to ./zeal_unzip/edrm-enron-v2_ring-a_xml
+2016-10-08T21:28:17.816668: Read ./zeal_unzip/edrm-enron-v2_ring-a_xml/zl_ring-a_688_KWH4_000.xml
+2016-10-08T21:28:22.732613: Dump to ./state.json
+2016-10-08T21:28:23.030677: FILES: (96/151) Elapsed time 2296s. Estimated finish time 1315s
+2016-10-08T21:28:23.117361: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_lavorato-j_xml.zip to ./zeal_unzip/edrm-enron-v2_lavorato-j_xml
+2016-10-08T21:28:55.502055: Read ./zeal_unzip/edrm-enron-v2_lavorato-j_xml/zl_lavorato-j_712_M2XC_000.xml
+2016-10-08T21:29:20.045027: Read ./zeal_unzip/edrm-enron-v2_lavorato-j_xml/zl_lavorato-j_712_M2XC_001.xml
+2016-10-08T21:29:40.315517: Read ./zeal_unzip/edrm-enron-v2_lavorato-j_xml/zl_lavorato-j_712_M2XC_002.xml
+2016-10-08T21:29:54.544273: Dump to ./state.json
+2016-10-08T21:29:54.841852: FILES: (97/151) Elapsed time 2388s. Estimated finish time 1329s
+2016-10-08T21:29:56.633299: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_lokey-t_xml.zip to ./zeal_unzip/edrm-enron-v2_lokey-t_xml
+2016-10-08T21:29:57.697469: Read ./zeal_unzip/edrm-enron-v2_lokey-t_xml/zl_lokey-t_731_HNKO_000.xml
+2016-10-08T21:30:00.011565: Dump to ./state.json
+2016-10-08T21:30:00.310645: FILES: (98/151) Elapsed time 2393s. Estimated finish time 1294s
+2016-10-08T21:30:00.382055: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_stclair-c_xml.zip to ./zeal_unzip/edrm-enron-v2_stclair-c_xml
+2016-10-08T21:30:06.215634: Read ./zeal_unzip/edrm-enron-v2_stclair-c_xml/zl_stclair-c_753_EKTV_000.xml
+2016-10-08T21:30:18.116123: Read ./zeal_unzip/edrm-enron-v2_stclair-c_xml/zl_stclair-c_753_EKTV_001.xml
+2016-10-08T21:30:19.431315: Dump to ./state.json
+2016-10-08T21:30:19.736830: FILES: (99/151) Elapsed time 2413s. Estimated finish time 1267s
+2016-10-08T21:30:20.490872: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_hernandez-j_xml.zip to ./zeal_unzip/edrm-enron-v2_hernandez-j_xml
+2016-10-08T21:30:25.365398: Read ./zeal_unzip/edrm-enron-v2_hernandez-j_xml/zl_hernandez-j_839_JF5Y_000.xml
+2016-10-08T21:30:34.820284: Dump to ./state.json
+2016-10-08T21:30:35.131341: FILES: (100/151) Elapsed time 2428s. Estimated finish time 1238s
+2016-10-08T21:30:35.414621: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_causholli-m_xml.zip to ./zeal_unzip/edrm-enron-v2_causholli-m_xml
+2016-10-08T21:30:37.937607: Read ./zeal_unzip/edrm-enron-v2_causholli-m_xml/zl_causholli-m_735_IRWE_000.xml
+2016-10-08T21:30:43.085281: Dump to ./state.json
+2016-10-08T21:30:43.390082: FILES: (101/151) Elapsed time 2437s. Estimated finish time 1206s
+2016-10-08T21:30:43.488608: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_shackleton-s_xml.zip to ./zeal_unzip/edrm-enron-v2_shackleton-s_xml
+2016-10-08T21:31:39.356401: Read ./zeal_unzip/edrm-enron-v2_shackleton-s_xml/zl_shackleton-s_777_DZQO_001.xml
+2016-10-08T21:32:19.863561: Read ./zeal_unzip/edrm-enron-v2_shackleton-s_xml/zl_shackleton-s_777_DZQO_002.xml
+2016-10-08T21:32:41.810784: Read ./zeal_unzip/edrm-enron-v2_shackleton-s_xml/zl_shackleton-s_777_DZQO_003.xml
+2016-10-08T21:32:49.721440: Read ./zeal_unzip/edrm-enron-v2_shackleton-s_xml/zl_shackleton-s_777_DZQO_000.xml
+2016-10-08T21:33:29.363015: Read ./zeal_unzip/edrm-enron-v2_shackleton-s_xml/native_000/3.568701.JPEBBJFCXND1ONKBJOY4353MMOF0WKCBB.4.xml
+2016-10-08T21:33:29.365183: Read ./zeal_unzip/edrm-enron-v2_shackleton-s_xml/native_000/3.568701.JPEBBJFCXND1ONKBJOY4353MMOF0WKCBB.2.xml
+2016-10-08T21:33:29.445339: Dump to ./state.json
+2016-10-08T21:33:29.756195: FILES: (102/151) Elapsed time 2603s. Estimated finish time 1250s
+2016-10-08T21:33:32.905403: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_harris-s_xml.zip to ./zeal_unzip/edrm-enron-v2_harris-s_xml
+2016-10-08T21:33:33.414365: Read ./zeal_unzip/edrm-enron-v2_harris-s_xml/zl_harris-s_692_NOFN_000.xml
+2016-10-08T21:33:34.463966: Dump to ./state.json
+2016-10-08T21:33:34.775673: FILES: (103/151) Elapsed time 2608s. Estimated finish time 1215s
+2016-10-08T21:33:34.827890: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_delainey-d_xml.zip to ./zeal_unzip/edrm-enron-v2_delainey-d_xml
+2016-10-08T21:33:43.695338: Read ./zeal_unzip/edrm-enron-v2_delainey-d_xml/zl_delainey-d_810_POO0_001.xml
+2016-10-08T21:33:48.566074: Read ./zeal_unzip/edrm-enron-v2_delainey-d_xml/zl_delainey-d_810_POO0_000.xml
+2016-10-08T21:34:01.786036: Dump to ./state.json
+2016-10-08T21:34:02.098162: FILES: (104/151) Elapsed time 2635s. Estimated finish time 1190s
+2016-10-08T21:34:03.036847: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_lewis-a_xml.zip to ./zeal_unzip/edrm-enron-v2_lewis-a_xml
+2016-10-08T21:34:08.113002: Read ./zeal_unzip/edrm-enron-v2_lewis-a_xml/zl_lewis-a_747_D52V_000.xml
+2016-10-08T21:34:18.472357: Dump to ./state.json
+2016-10-08T21:34:18.790349: FILES: (105/151) Elapsed time 2652s. Estimated finish time 1161s
+2016-10-08T21:34:19.333944: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_keavey-p_xml.zip to ./zeal_unzip/edrm-enron-v2_keavey-p_xml
+2016-10-08T21:34:22.556791: Read ./zeal_unzip/edrm-enron-v2_keavey-p_xml/zl_keavey-p_617_PQTE_000.xml
+2016-10-08T21:34:29.766407: Dump to ./state.json
+2016-10-08T21:34:30.081259: FILES: (106/151) Elapsed time 2663s. Estimated finish time 1130s
+2016-10-08T21:34:30.380029: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_maggi-m_xml.zip to ./zeal_unzip/edrm-enron-v2_maggi-m_xml
+2016-10-08T21:34:32.042811: Read ./zeal_unzip/edrm-enron-v2_maggi-m_xml/zl_maggi-m_642_O4PM_000.xml
+2016-10-08T21:34:35.709346: Dump to ./state.json
+2016-10-08T21:34:36.024317: FILES: (107/151) Elapsed time 2669s. Estimated finish time 1097s
+2016-10-08T21:34:36.142091: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_farmer-d_xml.zip to ./zeal_unzip/edrm-enron-v2_farmer-d_xml
+2016-10-08T21:35:17.581964: Read ./zeal_unzip/edrm-enron-v2_farmer-d_xml/zl_farmer-d_794_IXSN_000.xml
+2016-10-08T21:36:04.391866: Read ./zeal_unzip/edrm-enron-v2_farmer-d_xml/zl_farmer-d_794_IXSN_001.xml
+2016-10-08T21:36:34.965539: Read ./zeal_unzip/edrm-enron-v2_farmer-d_xml/zl_farmer-d_794_IXSN_002.xml
+2016-10-08T21:36:40.095923: Dump to ./state.json
+2016-10-08T21:36:40.414308: FILES: (108/151) Elapsed time 2794s. Estimated finish time 1112s
+2016-10-08T21:36:42.291579: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_steffes-j_xml.zip to ./zeal_unzip/edrm-enron-v2_steffes-j_xml
+2016-10-08T21:36:47.902167: Read ./zeal_unzip/edrm-enron-v2_steffes-j_xml/zl_steffes-j_786_FRGZ_000.xml
+2016-10-08T21:36:59.482143: Dump to ./state.json
+2016-10-08T21:36:59.823870: FILES: (109/151) Elapsed time 2813s. Estimated finish time 1083s
+2016-10-08T21:37:00.139202: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_tycholiz-b_xml.zip to ./zeal_unzip/edrm-enron-v2_tycholiz-b_xml
+2016-10-08T21:37:02.800520: Read ./zeal_unzip/edrm-enron-v2_tycholiz-b_xml/zl_tycholiz-b_676_L1TM_000.xml
+2016-10-08T21:37:08.477045: Dump to ./state.json
+2016-10-08T21:37:08.805671: FILES: (110/151) Elapsed time 2822s. Estimated finish time 1051s
+2016-10-08T21:37:08.976076: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_arora-h_xml.zip to ./zeal_unzip/edrm-enron-v2_arora-h_xml
+2016-10-08T21:37:10.467460: Read ./zeal_unzip/edrm-enron-v2_arora-h_xml/zl_arora-h_665_DJCZ_000.xml
+2016-10-08T21:37:13.637263: Dump to ./state.json
+2016-10-08T21:37:13.959954: FILES: (111/151) Elapsed time 2827s. Estimated finish time 1018s
+2016-10-08T21:37:14.054503: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_bailey-s_xml.zip to ./zeal_unzip/edrm-enron-v2_bailey-s_xml
+2016-10-08T21:37:14.991298: Read ./zeal_unzip/edrm-enron-v2_bailey-s_xml/zl_bailey-s_812_BNOD_000.xml
+2016-10-08T21:37:16.769416: Read ./zeal_unzip/edrm-enron-v2_bailey-s_xml/native_000/3.676640.LAL1TU1BFJNPYBJPKCK2Q5DWHPUDBFIEB.2.xml
+2016-10-08T21:37:16.770867: Read ./zeal_unzip/edrm-enron-v2_bailey-s_xml/native_000/3.676640.LAL1TU1BFJNPYBJPKCK2Q5DWHPUDBFIEB.4.xml
+2016-10-08T21:37:16.803304: Dump to ./state.json
+2016-10-08T21:37:17.129467: FILES: (112/151) Elapsed time 2830s. Estimated finish time 985s
+2016-10-08T21:37:17.226295: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_campbell-l_xml.zip to ./zeal_unzip/edrm-enron-v2_campbell-l_xml
+2016-10-08T21:37:34.062248: Read ./zeal_unzip/edrm-enron-v2_campbell-l_xml/zl_campbell-l_634_KUE2_000.xml
+2016-10-08T21:38:01.143713: Dump to ./state.json
+2016-10-08T21:38:01.482914: FILES: (113/151) Elapsed time 2875s. Estimated finish time 966s
+2016-10-08T21:38:02.291957: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_rogers-b_xml.zip to ./zeal_unzip/edrm-enron-v2_rogers-b_xml
+2016-10-08T21:39:28.957565: Read ./zeal_unzip/edrm-enron-v2_rogers-b_xml/zl_rogers-b_725_AVAM_000.xml
+2016-10-08T21:41:49.061315: Dump to ./state.json
+2016-10-08T21:41:49.401862: FILES: (114/151) Elapsed time 3103s. Estimated finish time 1007s
+2016-10-08T21:41:50.399519: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_germany-c_xml.zip to ./zeal_unzip/edrm-enron-v2_germany-c_xml
+2016-10-08T21:42:11.793790: Read ./zeal_unzip/edrm-enron-v2_germany-c_xml/zl_germany-c_739_CZJQ_000.xml
+2016-10-08T21:42:35.789683: Read ./zeal_unzip/edrm-enron-v2_germany-c_xml/zl_germany-c_739_CZJQ_001.xml
+2016-10-08T21:42:50.836719: Dump to ./state.json
+2016-10-08T21:42:51.182798: FILES: (115/151) Elapsed time 3164s. Estimated finish time 990s
+2016-10-08T21:42:52.361386: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_kitchen-l_xml.zip to ./zeal_unzip/edrm-enron-v2_kitchen-l_xml
+2016-10-08T21:43:11.194031: Read ./zeal_unzip/edrm-enron-v2_kitchen-l_xml/zl_kitchen-l_837_BOQJ_000.xml
+2016-10-08T21:43:43.333387: Dump to ./state.json
+2016-10-08T21:43:43.728628: FILES: (116/151) Elapsed time 3217s. Estimated finish time 970s
+2016-10-08T21:43:44.582239: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_geaccone-t_xml.zip to ./zeal_unzip/edrm-enron-v2_geaccone-t_xml
+2016-10-08T21:43:48.046118: Read ./zeal_unzip/edrm-enron-v2_geaccone-t_xml/zl_geaccone-t_775_L132_000.xml
+2016-10-08T21:43:55.475097: Dump to ./state.json
+2016-10-08T21:43:55.872567: FILES: (117/151) Elapsed time 3229s. Estimated finish time 938s
+2016-10-08T21:43:56.374054: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_beck-s_xml.zip to ./zeal_unzip/edrm-enron-v2_beck-s_xml
+2016-10-08T21:45:00.781925: Read ./zeal_unzip/edrm-enron-v2_beck-s_xml/zl_beck-s_843_MKMP_002.xml
+2016-10-08T21:45:42.692455: Read ./zeal_unzip/edrm-enron-v2_beck-s_xml/zl_beck-s_843_MKMP_001.xml
+2016-10-08T21:46:06.188337: Read ./zeal_unzip/edrm-enron-v2_beck-s_xml/zl_beck-s_843_MKMP_003.xml
+2016-10-08T21:46:29.459023: Read ./zeal_unzip/edrm-enron-v2_beck-s_xml/zl_beck-s_843_MKMP_000.xml
+2016-10-08T21:47:05.200390: Dump to ./state.json
+2016-10-08T21:47:05.548182: FILES: (118/151) Elapsed time 3419s. Estimated finish time 956s
+2016-10-08T21:47:08.004633: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_scholtes-d_xml.zip to ./zeal_unzip/edrm-enron-v2_scholtes-d_xml
+2016-10-08T21:47:09.527287: Read ./zeal_unzip/edrm-enron-v2_scholtes-d_xml/zl_scholtes-d_919_GBVA_000.xml
+2016-10-08T21:47:12.378135: Dump to ./state.json
+2016-10-08T21:47:12.734892: FILES: (119/151) Elapsed time 3426s. Estimated finish time 921s
+2016-10-08T21:47:12.800313: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_presto-k_xml.zip to ./zeal_unzip/edrm-enron-v2_presto-k_xml
+2016-10-08T21:47:16.423904: Read ./zeal_unzip/edrm-enron-v2_presto-k_xml/zl_presto-k_721_LMXE_000.xml
+2016-10-08T21:47:24.151698: Dump to ./state.json
+2016-10-08T21:47:24.506049: FILES: (120/151) Elapsed time 3438s. Estimated finish time 888s
+2016-10-08T21:47:24.816123: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_may-l_xml.zip to ./zeal_unzip/edrm-enron-v2_may-l_xml
+2016-10-08T21:47:31.807893: Read ./zeal_unzip/edrm-enron-v2_may-l_xml/zl_may-l_808_G1H0_000.xml
+2016-10-08T21:47:44.952167: Dump to ./state.json
+2016-10-08T21:47:45.310177: FILES: (121/151) Elapsed time 3458s. Estimated finish time 857s
+2016-10-08T21:47:45.589906: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_townsend-j_xml.zip to ./zeal_unzip/edrm-enron-v2_townsend-j_xml
+2016-10-08T21:47:46.276052: Read ./zeal_unzip/edrm-enron-v2_townsend-j_xml/zl_townsend-j_875_MSNA_000.xml
+2016-10-08T21:47:47.905321: Dump to ./state.json
+2016-10-08T21:47:48.263955: FILES: (122/151) Elapsed time 3461s. Estimated finish time 822s
+2016-10-08T21:47:48.309052: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_storey-g_xml.zip to ./zeal_unzip/edrm-enron-v2_storey-g_xml
+2016-10-08T21:47:50.723511: Read ./zeal_unzip/edrm-enron-v2_storey-g_xml/zl_storey-g_879_H2PA_000.xml
+2016-10-08T21:47:56.007907: Dump to ./state.json
+2016-10-08T21:47:56.364488: FILES: (123/151) Elapsed time 3470s. Estimated finish time 789s
+2016-10-08T21:47:56.482749: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_derrick-j_xml.zip to ./zeal_unzip/edrm-enron-v2_derrick-j_xml
+2016-10-08T21:47:58.984578: Read ./zeal_unzip/edrm-enron-v2_derrick-j_xml/zl_derrick-j_761_C1LN_000.xml
+2016-10-08T21:48:04.237042: Dump to ./state.json
+2016-10-08T21:48:04.595684: FILES: (124/151) Elapsed time 3478s. Estimated finish time 757s
+2016-10-08T21:48:04.767626: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_dasovich-j_xml.zip to ./zeal_unzip/edrm-enron-v2_dasovich-j_xml
+2016-10-08T21:50:33.697531: Read ./zeal_unzip/edrm-enron-v2_dasovich-j_xml/zl_dasovich-j_629_N10J_004.xml
+2016-10-08T21:51:26.044614: Read ./zeal_unzip/edrm-enron-v2_dasovich-j_xml/zl_dasovich-j_629_N10J_003.xml
+2016-10-08T21:52:01.516901: Read ./zeal_unzip/edrm-enron-v2_dasovich-j_xml/zl_dasovich-j_629_N10J_002.xml
+2016-10-08T21:52:39.307713: Read ./zeal_unzip/edrm-enron-v2_dasovich-j_xml/zl_dasovich-j_629_N10J_005.xml
+2016-10-08T21:53:13.631586: Read ./zeal_unzip/edrm-enron-v2_dasovich-j_xml/zl_dasovich-j_629_N10J_000.xml
+2016-10-08T21:53:56.086186: Read ./zeal_unzip/edrm-enron-v2_dasovich-j_xml/zl_dasovich-j_629_N10J_001.xml
+2016-10-08T21:54:43.290961: Read ./zeal_unzip/edrm-enron-v2_dasovich-j_xml/zl_dasovich-j_629_N10J_006.xml
+2016-10-08T21:55:16.013735: Read ./zeal_unzip/edrm-enron-v2_dasovich-j_xml/zl_dasovich-j_629_N10J_007.xml
+2016-10-08T21:55:37.631779: Dump to ./state.json
+2016-10-08T21:55:38.019206: FILES: (125/151) Elapsed time 3931s. Estimated finish time 817s
+2016-10-08T21:55:43.672869: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_quigley-d_xml.zip to ./zeal_unzip/edrm-enron-v2_quigley-d_xml
+2016-10-08T21:55:47.821735: Read ./zeal_unzip/edrm-enron-v2_quigley-d_xml/zl_quigley-d_704_LGUY_000.xml
+2016-10-08T21:55:58.339091: Dump to ./state.json
+2016-10-08T21:55:58.732123: FILES: (126/151) Elapsed time 3952s. Estimated finish time 784s
+2016-10-08T21:55:59.122717: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_lay-k_xml.zip to ./zeal_unzip/edrm-enron-v2_lay-k_xml
+2016-10-08T21:56:09.641755: Read ./zeal_unzip/edrm-enron-v2_lay-k_xml/zl_lay-k_871_LDTF_000.xml
+2016-10-08T21:56:24.089498: Read ./zeal_unzip/edrm-enron-v2_lay-k_xml/zl_lay-k_871_LDTF_001.xml
+2016-10-08T21:56:29.782816: Dump to ./state.json
+2016-10-08T21:56:30.197266: FILES: (127/151) Elapsed time 3983s. Estimated finish time 752s
+2016-10-08T21:56:31.121374: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_panus-s_xml.zip to ./zeal_unzip/edrm-enron-v2_panus-s_xml
+2016-10-08T21:56:31.774304: Read ./zeal_unzip/edrm-enron-v2_panus-s_xml/zl_panus-s_832_INJK_000.xml
+2016-10-08T21:56:33.274827: Read ./zeal_unzip/edrm-enron-v2_panus-s_xml/native_000/3.691344.BA3SZPL3YDONNBBXCH5HJT3GLV4R42XGA.4.xml
+2016-10-08T21:56:33.275646: Read ./zeal_unzip/edrm-enron-v2_panus-s_xml/native_000/3.691344.BA3SZPL3YDONNBBXCH5HJT3GLV4R42XGA.2.xml
+2016-10-08T21:56:33.313775: Dump to ./state.json
+2016-10-08T21:56:33.724991: FILES: (128/151) Elapsed time 3987s. Estimated finish time 716s
+2016-10-08T21:56:33.928540: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_fischer-m_xml.zip to ./zeal_unzip/edrm-enron-v2_fischer-m_xml
+2016-10-08T21:56:40.857406: Read ./zeal_unzip/edrm-enron-v2_fischer-m_xml/zl_fischer-m_818_CUU0_000.xml
+2016-10-08T21:56:53.338540: Dump to ./state.json
+2016-10-08T21:56:53.748767: FILES: (129/151) Elapsed time 4007s. Estimated finish time 683s
+2016-10-08T21:56:53.996415: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_mclaughlin-e_xml.zip to ./zeal_unzip/edrm-enron-v2_mclaughlin-e_xml
+2016-10-08T21:57:10.862079: Read ./zeal_unzip/edrm-enron-v2_mclaughlin-e_xml/zl_mclaughlin-e_719_JLP5_000.xml
+2016-10-08T21:57:39.609117: Dump to ./state.json
+2016-10-08T21:57:40.019765: FILES: (130/151) Elapsed time 4053s. Estimated finish time 654s
+2016-10-08T21:57:40.554659: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_gang-l_xml.zip to ./zeal_unzip/edrm-enron-v2_gang-l_xml
+2016-10-08T21:57:42.394765: Read ./zeal_unzip/edrm-enron-v2_gang-l_xml/zl_gang-l_769_P4Y0_000.xml
+2016-10-08T21:57:47.074377: Dump to ./state.json
+2016-10-08T21:57:47.488661: FILES: (131/151) Elapsed time 4061s. Estimated finish time 620s
+2016-10-08T21:57:47.597231: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_thomas-p_xml.zip to ./zeal_unzip/edrm-enron-v2_thomas-p_xml
+2016-10-08T21:57:53.377802: Read ./zeal_unzip/edrm-enron-v2_thomas-p_xml/zl_thomas-p_873_GGTD_000.xml
+2016-10-08T21:58:09.976255: Dump to ./state.json
+2016-10-08T21:58:10.385067: FILES: (132/151) Elapsed time 4084s. Estimated finish time 587s
+2016-10-08T21:58:10.962860: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_hyvl-d_xml.zip to ./zeal_unzip/edrm-enron-v2_hyvl-d_xml
+2016-10-08T21:58:22.557866: Read ./zeal_unzip/edrm-enron-v2_hyvl-d_xml/zl_hyvl-d_640_FOQI_000.xml
+2016-10-08T21:58:43.423745: Dump to ./state.json
+2016-10-08T21:58:43.836565: FILES: (133/151) Elapsed time 4117s. Estimated finish time 557s
+2016-10-08T21:58:44.443443: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_reitmeyer-j_xml.zip to ./zeal_unzip/edrm-enron-v2_reitmeyer-j_xml
+2016-10-08T21:58:45.797509: Read ./zeal_unzip/edrm-enron-v2_reitmeyer-j_xml/zl_reitmeyer-j_623_H0E3_000.xml
+2016-10-08T21:58:48.899808: Dump to ./state.json
+2016-10-08T21:58:49.312433: FILES: (134/151) Elapsed time 4122s. Estimated finish time 522s
+2016-10-08T21:58:49.372786: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_salisbury-h_xml.zip to ./zeal_unzip/edrm-enron-v2_salisbury-h_xml
+2016-10-08T21:58:51.019345: Read ./zeal_unzip/edrm-enron-v2_salisbury-h_xml/zl_salisbury-h_690_B1PM_000.xml
+2016-10-08T21:58:55.287777: Read ./zeal_unzip/edrm-enron-v2_salisbury-h_xml/native_000/3.286176.OKDO1DBLVFXFW023AFHOWUYEULBWZZTGA.3.xml
+2016-10-08T21:58:55.288618: Read ./zeal_unzip/edrm-enron-v2_salisbury-h_xml/native_000/3.286176.OKDO1DBLVFXFW023AFHOWUYEULBWZZTGA.2.xml
+2016-10-08T21:58:55.327967: Dump to ./state.json
+2016-10-08T21:58:55.749307: FILES: (135/151) Elapsed time 4129s. Estimated finish time 489s
+2016-10-08T21:58:55.857288: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_taylor-m_xml.zip to ./zeal_unzip/edrm-enron-v2_taylor-m_xml
+2016-10-08T21:59:45.438685: Read ./zeal_unzip/edrm-enron-v2_taylor-m_xml/zl_taylor-m_669_IIGZ_000.xml
+2016-10-08T22:00:25.871391: Read ./zeal_unzip/edrm-enron-v2_taylor-m_xml/zl_taylor-m_669_IIGZ_003.xml
+2016-10-08T22:00:32.952420: Read ./zeal_unzip/edrm-enron-v2_taylor-m_xml/zl_taylor-m_669_IIGZ_001.xml
+2016-10-08T22:01:04.609096: Read ./zeal_unzip/edrm-enron-v2_taylor-m_xml/zl_taylor-m_669_IIGZ_002.xml
+2016-10-08T22:01:29.978170: Read ./zeal_unzip/edrm-enron-v2_taylor-m_xml/native_001/3.226355.LIAHUPXYQKXGBYN5HVJXKGU2NBBDTIBJA.2.xml
+2016-10-08T22:01:29.986447: Traceback (most recent call last):
+  File "/home/ubuntu/email_report/venv/lib/python3.5/site-packages/xmltodict.py", line 309, in parse
+    parser.ParseFile(xml_input)
+TypeError: argument must have 'read' attribute
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "app.py", line 280, in read_all_email_info
+    email_info = parse_xml_email(email_folder, file)
+  File "app.py", line 203, in parse_xml_email
+    data = xmltodict.parse(f.read())
+  File "/home/ubuntu/email_report/venv/lib/python3.5/site-packages/xmltodict.py", line 311, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: syntax error: line 1, column 0
+
+2016-10-08T22:01:29.986543: Skip ./zeal_unzip/edrm-enron-v2_taylor-m_xml/./zeal_unzip/edrm-enron-v2_taylor-m_xml/native_001/3.226355.LIAHUPXYQKXGBYN5HVJXKGU2NBBDTIBJA.2.xml
+2016-10-08T22:01:29.986835: Read ./zeal_unzip/edrm-enron-v2_taylor-m_xml/native_001/3.226355.LIAHUPXYQKXGBYN5HVJXKGU2NBBDTIBJA.4.xml
+2016-10-08T22:01:29.987589: Traceback (most recent call last):
+  File "/home/ubuntu/email_report/venv/lib/python3.5/site-packages/xmltodict.py", line 309, in parse
+    parser.ParseFile(xml_input)
+TypeError: argument must have 'read' attribute
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "app.py", line 280, in read_all_email_info
+    email_info = parse_xml_email(email_folder, file)
+  File "app.py", line 203, in parse_xml_email
+    data = xmltodict.parse(f.read())
+  File "/home/ubuntu/email_report/venv/lib/python3.5/site-packages/xmltodict.py", line 311, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: syntax error: line 1, column 0
+
+2016-10-08T22:01:29.987674: Skip ./zeal_unzip/edrm-enron-v2_taylor-m_xml/./zeal_unzip/edrm-enron-v2_taylor-m_xml/native_001/3.226355.LIAHUPXYQKXGBYN5HVJXKGU2NBBDTIBJA.4.xml
+2016-10-08T22:01:30.142505: Dump to ./state.json
+2016-10-08T22:01:30.565320: FILES: (136/151) Elapsed time 4284s. Estimated finish time 472s
+2016-10-08T22:01:33.199338: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_pimenov-v_xml.zip to ./zeal_unzip/edrm-enron-v2_pimenov-v_xml
+2016-10-08T22:01:35.235205: Read ./zeal_unzip/edrm-enron-v2_pimenov-v_xml/zl_pimenov-v_853_J2KN_000.xml
+2016-10-08T22:01:38.982544: Dump to ./state.json
+2016-10-08T22:01:39.404748: FILES: (137/151) Elapsed time 4293s. Estimated finish time 438s
+2016-10-08T22:01:39.485480: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_mann-k_xml.zip to ./zeal_unzip/edrm-enron-v2_mann-k_xml
+2016-10-08T22:04:02.354708: Read ./zeal_unzip/edrm-enron-v2_mann-k_xml/zl_mann-k_834_DLCG_001.xml
+2016-10-08T22:05:36.343889: Read ./zeal_unzip/edrm-enron-v2_mann-k_xml/zl_mann-k_834_DLCG_002.xml
+2016-10-08T22:06:38.587175: Read ./zeal_unzip/edrm-enron-v2_mann-k_xml/zl_mann-k_834_DLCG_000.xml
+2016-10-08T22:07:49.361860: Read ./zeal_unzip/edrm-enron-v2_mann-k_xml/native_002/3.716773.FS4XPWAW35EJTWLXTCOXO00MKYPYBZXMA.2.xml
+2016-10-08T22:07:49.365183: Read ./zeal_unzip/edrm-enron-v2_mann-k_xml/native_002/3.716773.FS4XPWAW35EJTWLXTCOXO00MKYPYBZXMA.4.xml
+2016-10-08T22:07:49.667857: Dump to ./state.json
+2016-10-08T22:07:50.099420: FILES: (138/151) Elapsed time 4663s. Estimated finish time 439s
+2016-10-08T22:07:52.689554: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_whalley-g_xml.zip to ./zeal_unzip/edrm-enron-v2_whalley-g_xml
+2016-10-08T22:08:46.172055: Read ./zeal_unzip/edrm-enron-v2_whalley-g_xml/zl_whalley-g_929_DOTE_001.xml
+2016-10-08T22:09:11.923376: Read ./zeal_unzip/edrm-enron-v2_whalley-g_xml/zl_whalley-g_929_DOTE_000.xml
+2016-10-08T22:09:50.542994: Read ./zeal_unzip/edrm-enron-v2_whalley-g_xml/zl_whalley-g_929_DOTE_002.xml
+2016-10-08T22:10:18.185036: Read ./zeal_unzip/edrm-enron-v2_whalley-g_xml/zl_whalley-g_929_DOTE_003.xml
+2016-10-08T22:10:20.931920: Dump to ./state.json
+2016-10-08T22:10:21.366120: FILES: (139/151) Elapsed time 4815s. Estimated finish time 415s
+2016-10-08T22:10:23.524380: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_kean-s_xml.zip to ./zeal_unzip/edrm-enron-v2_kean-s_xml
+2016-10-08T22:10:23.524609: Exception (zipfile.BadZipFile): zipfiles that span multiple disks are not supported
+2016-10-08T22:10:23.524722: FILES: (140/151) Elapsed time 4817s. Estimated finish time 378s
+2016-10-08T22:10:23.524849: Can't delete ./zeal_unzip/edrm-enron-v2_kean-s_xml
+2016-10-08T22:10:23.524928: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_jones-t_xml.zip to ./zeal_unzip/edrm-enron-v2_kean-s_xml
+2016-10-08T22:12:08.807947: Read ./zeal_unzip/edrm-enron-v2_kean-s_xml/zl_jones-t_889_ERJM_003.xml
+2016-10-08T22:12:33.665126: Read ./zeal_unzip/edrm-enron-v2_kean-s_xml/zl_jones-t_889_ERJM_001.xml
+2016-10-08T22:13:27.357519: Read ./zeal_unzip/edrm-enron-v2_kean-s_xml/zl_jones-t_889_ERJM_000.xml
+2016-10-08T22:14:25.910294: Read ./zeal_unzip/edrm-enron-v2_kean-s_xml/zl_jones-t_889_ERJM_002.xml
+2016-10-08T22:15:18.933084: Read ./zeal_unzip/edrm-enron-v2_kean-s_xml/native_000/3.882997.ASBLIUH5BDYO1MYAPS2MMLZ0N33MXG0QA.2.xml
+2016-10-08T22:15:18.936925: Read ./zeal_unzip/edrm-enron-v2_kean-s_xml/native_000/3.882997.ASBLIUH5BDYO1MYAPS2MMLZ0N33MXG0QA.4.xml
+2016-10-08T22:15:19.037602: Dump to ./state.json
+2016-10-08T22:15:19.474410: FILES: (141/151) Elapsed time 5113s. Estimated finish time 362s
+2016-10-08T22:15:22.097756: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_hendrickson-s_xml.zip to ./zeal_unzip/edrm-enron-v2_hendrickson-s_xml
+2016-10-08T22:15:23.487745: Read ./zeal_unzip/edrm-enron-v2_hendrickson-s_xml/zl_hendrickson-s_694_MOJY_000.xml
+2016-10-08T22:15:26.368173: Dump to ./state.json
+2016-10-08T22:15:26.806298: FILES: (142/151) Elapsed time 5120s. Estimated finish time 324s
+2016-10-08T22:15:26.964037: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_bass-e_xml.zip to ./zeal_unzip/edrm-enron-v2_bass-e_xml
+2016-10-08T22:15:41.108254: Read ./zeal_unzip/edrm-enron-v2_bass-e_xml/zl_bass-e_917_JRPW_001.xml
+2016-10-08T22:15:44.590063: Read ./zeal_unzip/edrm-enron-v2_bass-e_xml/zl_bass-e_917_JRPW_000.xml
+2016-10-08T22:16:05.037712: Dump to ./state.json
+2016-10-08T22:16:05.469716: FILES: (143/151) Elapsed time 5159s. Estimated finish time 288s
+2016-10-08T22:16:06.167299: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_staab-t_xml.zip to ./zeal_unzip/edrm-enron-v2_staab-t_xml
+2016-10-08T22:16:08.644938: Read ./zeal_unzip/edrm-enron-v2_staab-t_xml/zl_staab-t_861_DNWN_000.xml
+2016-10-08T22:16:17.135314: Dump to ./state.json
+2016-10-08T22:16:17.635231: FILES: (144/151) Elapsed time 5171s. Estimated finish time 251s
+2016-10-08T22:16:18.236037: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_hyatt-k_xml.zip to ./zeal_unzip/edrm-enron-v2_hyatt-k_xml
+2016-10-08T22:16:21.428058: Read ./zeal_unzip/edrm-enron-v2_hyatt-k_xml/zl_hyatt-k_913_PNR2_000.xml
+2016-10-08T22:16:28.450623: Dump to ./state.json
+2016-10-08T22:16:28.897167: FILES: (145/151) Elapsed time 5182s. Estimated finish time 214s
+2016-10-08T22:16:29.058263: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_slinger-r_xml.zip to ./zeal_unzip/edrm-enron-v2_slinger-r_xml
+2016-10-08T22:16:29.350556: Read ./zeal_unzip/edrm-enron-v2_slinger-r_xml/zl_slinger-r_822_PUL3_000.xml
+2016-10-08T22:16:30.016241: Dump to ./state.json
+2016-10-08T22:16:30.459096: FILES: (146/151) Elapsed time 5184s. Estimated finish time 177s
+2016-10-08T22:16:30.474023: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_motley-m_xml.zip to ./zeal_unzip/edrm-enron-v2_motley-m_xml
+2016-10-08T22:16:31.314119: Read ./zeal_unzip/edrm-enron-v2_motley-m_xml/zl_motley-m_763_IZGB_000.xml
+2016-10-08T22:16:33.338047: Dump to ./state.json
+2016-10-08T22:16:33.784048: FILES: (147/151) Elapsed time 5187s. Estimated finish time 141s
+2016-10-08T22:16:33.825630: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_tholt-j_xml.zip to ./zeal_unzip/edrm-enron-v2_tholt-j_xml
+2016-10-08T22:16:38.213678: Read ./zeal_unzip/edrm-enron-v2_tholt-j_xml/zl_tholt-j_717_EUTX_000.xml
+2016-10-08T22:16:47.115545: Dump to ./state.json
+2016-10-08T22:16:47.675785: FILES: (148/151) Elapsed time 5201s. Estimated finish time 105s
+2016-10-08T22:16:47.941729: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_schoolcraft-d_xml.zip to ./zeal_unzip/edrm-enron-v2_schoolcraft-d_xml
+2016-10-08T22:16:54.008873: Read ./zeal_unzip/edrm-enron-v2_schoolcraft-d_xml/zl_schoolcraft-d_727_ISS2_000.xml
+2016-10-08T22:17:08.044996: Dump to ./state.json
+2016-10-08T22:17:08.494187: FILES: (149/151) Elapsed time 5222s. Estimated finish time 70s
+2016-10-08T22:17:08.889650: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_ybarbo-p_xml.zip to ./zeal_unzip/edrm-enron-v2_ybarbo-p_xml
+2016-10-08T22:17:12.167341: Read ./zeal_unzip/edrm-enron-v2_ybarbo-p_xml/zl_ybarbo-p_782_KJOQ_000.xml
+2016-10-08T22:17:18.613644: Dump to ./state.json
+2016-10-08T22:17:19.068905: FILES: (150/151) Elapsed time 5232s. Estimated finish time 34s
+2016-10-08T22:17:19.213200: Unzip /mnt/email/edrm-enron-v2/edrm-enron-v2_meyers-a_xml.zip to ./zeal_unzip/edrm-enron-v2_meyers-a_xml
+2016-10-08T22:17:19.649700: Read ./zeal_unzip/edrm-enron-v2_meyers-a_xml/zl_meyers-a_737_NMB5_000.xml
+2016-10-08T22:17:20.609804: Dump to ./state.json
+2016-10-08T22:17:21.056681: FILES: (151/151) Elapsed time 5234s. Estimated finish time 0s
+2016-10-08T22:17:21.105660: Total words count 476077378
+2016-10-08T22:17:21.105768: Average words count 503.0695761059656
+2016-10-08T22:17:21.105868: Files count 946345
+2016-10-08T22:17:21.105946: 
+Top 100 emails:
+2016-10-08T22:17:21.106027: Email                                    Score
+2016-10-08T22:17:21.106119: pete.davis@enron.com                     13768.5
+2016-10-08T22:17:21.106202: jeff.dasovich@enron.com                  8616.5
+2016-10-08T22:17:21.106286: jdasovic@enron.com                       7392.5
+2016-10-08T22:17:21.106365: mark.guzman@enron.com                    5757.0
+2016-10-08T22:17:21.106454: bill.williams.iii@enron.com              5612.5
+2016-10-08T22:17:21.106531: louise.kitchen@enron.com                 4847.0
+2016-10-08T22:17:21.106607: ryan.slinger@enron.com                   4769.5
+2016-10-08T22:17:21.106683: bert.meyers@enron.com                    4708.5
+2016-10-08T22:17:21.106759: geir.solberg@enron.com                   4671.5
+2016-10-08T22:17:21.106835: mday@gmssr.com                           4636.5
+2016-10-08T22:17:21.106912: kay.mann@enron.com                       4524.5
+2016-10-08T22:17:21.106987: craig.dean@enron.com                     4503.0
+2016-10-08T22:17:21.107118: sara.shackleton@enron.com                3808.0
+2016-10-08T22:17:21.107198: skean@enron.com                          3653.0
+2016-10-08T22:17:21.107277: daren.j.farmer@enron.com                 3439.0
+2016-10-08T22:17:21.107353: james.d.steffes@enron.com                3422.0
+2016-10-08T22:17:21.107428: gerald.nemec@enron.com                   3239.0
+2016-10-08T22:17:21.107502: gtbl@dynegy.com                          3200.0
+2016-10-08T22:17:21.107579: monika.causholli@enron.com               3107.0
+2016-10-08T22:17:21.107655: mark.taylor@enron.com                    3089.5
+2016-10-08T22:17:21.107730: tana.jones@enron.com                     3050.5
+2016-10-08T22:17:21.107807: leaf.harasin@enron.com                   3038.5
+2016-10-08T22:17:21.107884: mpalmer@enron.com                        3023.5
+2016-10-08T22:17:21.107959: kmccrea@sablaw.com                       3013.0
+2016-10-08T22:17:21.108036: sally.beck@enron.com                     2797.5
+2016-10-08T22:17:21.108110: richard.shapiro@enron.com                2757.0
+2016-10-08T22:17:21.108185: imceanotes-all+20enron+20worldwide+40enron@enron.com 2729.0
+2016-10-08T22:17:21.108263: eke@aelaw.com                            2728.5
+2016-10-08T22:17:21.108339: earl.tisdale@enron.com                   2697.5
+2016-10-08T22:17:21.108419: dporter3@enron.com                       2676.0
+2016-10-08T22:17:21.108495: jleslie@luce.com                         2676.0
+2016-10-08T22:17:21.108569: jbryson@enron.com                        2667.0
+2016-10-08T22:17:21.108647: eric.linder@enron.com                    2658.0
+2016-10-08T22:17:21.108723: kimberly.watson@enron.com                2636.5
+2016-10-08T22:17:21.108797: craigc@calpine.com                       2589.0
+2016-10-08T22:17:21.108873: kenneth.lay@enron.com                    2569.0
+2016-10-08T22:17:21.108948: sgovenar@govadv.com                      2560.5
+2016-10-08T22:17:21.109024: cstone1@txu.com                          2544.0
+2016-10-08T22:17:21.109099: burkee@cts.com                           2522.0
+2016-10-08T22:17:21.109174: ggreen2@txu.com                          2506.5
+2016-10-08T22:17:21.109249: jeff.skilling@enron.com                  2496.0
+2016-10-08T22:17:21.109325: smara@enron.com                          2480.5
+2016-10-08T22:17:21.109393: kevin.m.presto@enron.com                 2454.0
+2016-10-08T22:17:21.109469: gary.a.hanks@enron.com                   2449.5
+2016-10-08T22:17:21.109545: rick.counihan@greenmountain.com          2444.5
+2016-10-08T22:17:21.109620: plg@cpuc.ca.gov                          2403.0
+2016-10-08T22:17:21.109695: greg.whalley@enron.com                   2361.5
+2016-10-08T22:17:21.109771: benjamin.rogers@enron.com                2349.5
+2016-10-08T22:17:21.109848: rmp@cpuc.ca.gov                          2327.0
+2016-10-08T22:17:21.109932: dfarmer@enron.com                        2303.0
+2016-10-08T22:17:21.110010: john.j.lavorato@enron.com                2283.0
+2016-10-08T22:17:21.110084: gsullivan@sempra.com                     2273.0
+2016-10-08T22:17:21.110160: mike.grigsby@enron.com                   2242.5
+2016-10-08T22:17:21.110234: klay@enron.com                           2241.0
+2016-10-08T22:17:21.110308: rochmanm@spurr.org                       2238.0
+2016-10-08T22:17:21.110383: michelle.lokay@enron.com                 2237.0
+2016-10-08T22:17:21.110459: sscott3@enron.com                        2220.5
+2016-10-08T22:17:21.110533: hgovenar@govadv.com                      2207.0
+2016-10-08T22:17:21.110608: chris.germany@enron.com                  2182.0
+2016-10-08T22:17:21.110683: jmpa@dynegy.com                          2171.0
+2016-10-08T22:17:21.110758: tim.belden@enron.com                     2166.5
+2016-10-08T22:17:21.110835: johnj@bcjlaw.com                         2142.0
+2016-10-08T22:17:21.110959: don.baughman@enron.com                   2141.0
+2016-10-08T22:17:21.111037: tomb@crossborderenergy.com               2134.0
+2016-10-08T22:17:21.111125: elizabeth.sager@enron.com                2102.0
+2016-10-08T22:17:21.111201: phillip.k.allen@enron.com                2080.0
+2016-10-08T22:17:21.111277: porterdk@sce.com                         2079.0
+2016-10-08T22:17:21.111353: kam.keiser@enron.com                     2065.5
+2016-10-08T22:17:21.111433: rick.buy@enron.com                       2056.5
+2016-10-08T22:17:21.111508: rbw@mrwassoc.com                         2042.0
+2016-10-08T22:17:21.111583: lindseyhowdowning@dwt.com                2030.0
+2016-10-08T22:17:21.111659: scott.neal@enron.com                     1991.5
+2016-10-08T22:17:21.111733: cabaker@duke-energy.com                  1971.0
+2016-10-08T22:17:21.111809: matthew.lenhart@enron.com                1968.0
+2016-10-08T22:17:21.111884: gfergus@brobeck.com                      1919.5
+2016-10-08T22:17:21.111959: mdjoseph@adamsbroadwell.com              1913.0
+2016-10-08T22:17:21.112034: ed@clfp.com                              1907.5
+2016-10-08T22:17:21.112108: napedersen@jonesday.com                  1900.0
+2016-10-08T22:17:21.112183: jweil@aglet.org                          1873.0
+2016-10-08T22:17:21.112258: jason.wolfe@enron.com                    1861.5
+2016-10-08T22:17:21.112332: jklauber@llgm.com                        1846.0
+2016-10-08T22:17:21.112409: kmills@cfbf.com                          1839.5
+2016-10-08T22:17:21.112488: marcel@turn.org                          1822.0
+2016-10-08T22:17:21.112563: igsinc@ix.netcom.com                     1818.0
+2016-10-08T22:17:21.112638: epoole@adplaw.com                        1791.0
+2016-10-08T22:17:21.112713: errol.mclaughlin@enron.com               1785.0
+2016-10-08T22:17:21.112792: karen@klindh.com                         1775.5
+2016-10-08T22:17:21.112866: jane.m.tholt@enron.com                   1765.0
+2016-10-08T22:17:21.112943: rochmanm@cubjpa.org                      1725.0
+2016-10-08T22:17:21.113019: susan.scott@enron.com                    1720.5
+2016-10-08T22:17:21.113095: paul.kaufman@enron.com                   1716.5
+2016-10-08T22:17:21.113169: bcragg@gmssr.com                         1703.0
+2016-10-08T22:17:21.113237: john.anderson@enron.com                  1693.5
+2016-10-08T22:17:21.113313: inggm@sce.com                            1685.0
+2016-10-08T22:17:21.113380: douglass@arterhadden.com                 1682.5
+2016-10-08T22:17:21.113456: harry.kingerski@enron.com                1682.5
+2016-10-08T22:17:21.113530: rpetti@ladwp.com                         1670.0
+2016-10-08T22:17:21.113605: barry.tycholiz@enron.com                 1657.0
+2016-10-08T22:17:21.113680: hunter.s.shively@enron.com               1655.0
+2016-10-08T22:17:21.113756: lindy.donoho@enron.com                   1653.0
