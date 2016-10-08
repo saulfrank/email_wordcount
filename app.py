@@ -171,7 +171,6 @@ def parse_xml_email(email_folder, file):
 #read through all the emails
 def read_all_email_info(email_folders):
     top_emails = defaultdict(float)
-    top_sorted_emails = []
     words_count = 0
     files_count = 0
 
@@ -190,6 +189,7 @@ def read_all_email_info(email_folders):
 
     # main loop for unzipped email foders
     for email_folder in email_folders:
+        top_sorted_emails = []
         #iterate through xml extensions -> call function to find all xml files in folder
         files = find_files_with_extenstion(email_folder, EMAIL_XML_EXTENSION)
         for file in files:
