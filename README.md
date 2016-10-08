@@ -1,4 +1,4 @@
-# Data analysis script
+# Email word count analysis script
 
 
 ## deploy and configure server
