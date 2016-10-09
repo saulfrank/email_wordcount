@@ -1,7 +1,7 @@
 # Email word count analysis script
 
 
-## deploy and configure server
+## Deploy and configure server
 
 ```
 On AWS deploy EC2
@@ -34,7 +34,7 @@ cd /home/ubuntu/email_report/
 
 
 
-## install
+## Install
 
 ```
 in /home/ubuntu/email_report/ directory:
@@ -51,10 +51,14 @@ nohup ./venv/bin/python app.py &
 
 ```
 
-## Assumptions
+## Assumptions & output
 
 ```
 Counts words in the text/plain part of a multi-part email
 Top emails count includes any internal emails
+
+Output:
+log.txt - at the bottom of the text file
+zeal.csv - audit log file
 
 ```
